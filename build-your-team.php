@@ -39,9 +39,7 @@
 						Our team of developers is master at implementing Angular.JS development best practices. With our hire AngularJS programmer services, you retain complete control over your technical resources throughout the development process. We provide the highest level of transparency, flexibility and scalability to help you drive digital innovation and transformation.
 					</p>
 
-					<p>
-						Our team of developers is master at implementing Angular.JS development best practices. With our hire AngularJS programmer services, you retain complete control over your technical resources throughout the development process. We provide the highest level of transparency, flexibility and scalability to help you drive digital innovation and transformation.
-					</p>
+					
 				</div>
 			</div>
 		</div>
