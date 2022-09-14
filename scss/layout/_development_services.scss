@@ -1,5 +1,5 @@
 .development-services{
-    padding: 100px 0;
+    padding: 100px 0 20px;
     position: relative;
     background: $white;
     .common-title {
@@ -75,6 +75,9 @@
                     a{
                         color: $theme-pink;
                     }
+                    h3{
+                        color: $theme-pink;
+                    }
                 }
             }
             &:nth-child(2){
@@ -134,6 +137,16 @@
             padding-left: 0;
             border: none;
             max-width: 100%;
+        }
+        ul {
+            li {
+                .service-card{
+                    margin: 30px 0 0 0;
+                }
+                &:nth-child(2), &:nth-child(3){
+                    margin-top: 0;
+                }
+            }
         }
     }
 }

@@ -13,10 +13,13 @@
 					<img src="img/banner/slider-01.png" class="d-block w-100 img-fluid" alt="">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>
-							Your Trusted Development Partner
+						A Brisk Team
 						</h5>
 						<p>
-							We deliver web and mobile app development services to global businesses since 1998, with 100% project delivery success. Hire the best programmers at affordable prices. Our design-focused approach and project execution processes help you to deliver the right solutions.
+						As our brand name suggests, we are an active and energetic (Brisk) team. We are doing highly complex software development tasks quickly and smoothly (Brisk).
+						</p>
+						<p>
+						Our hands-on command over web development, mobile development, CMS development, and ecommerce development is known in the industry.
 						</p>
 						<a href="#" class="btn btn-theme">
 							What We do
@@ -37,10 +40,13 @@
 					<img src="img/banner/slider-01.png" class="d-block w-100 img-fluid" alt="">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>
-							Your Trusted Development Partner
+						We Nurture the Culture of Technologies
 						</h5>
 						<p>
-							We deliver web and mobile app development services to global businesses since 1998, with 100% project delivery success. Hire the best programmers at affordable prices. Our design-focused approach and project execution processes help you to deliver the right solutions.
+						We brisk up technological innovations by fostering a culture of innovative technologies in your organization.
+						</p>
+						<p>
+						We bolster digitalization by creating your web and mobile presence to push up your organization next level and be compatible for an upcoming era.
 						</p>
 						<a href="#" class="btn btn-theme">
 							What We do
@@ -61,11 +67,12 @@
 					<img src="img/banner/slider-01.png" class="d-block w-100 img-fluid" alt="">
 					<div class="carousel-caption d-none d-md-block">
 						<h5>
-							Your Trusted Development Partner
+						We Drive More Values to Your Business
 						</h5>
 						<p>
-							We deliver web and mobile app development services to global businesses since 1998, with 100% project delivery success. Hire the best programmers at affordable prices. Our design-focused approach and project execution processes help you to deliver the right solutions.
+						We inspire a digital journey by infusing innovative technologies and driving more value to your business to sustain itself in the fiercely competitive market.
 						</p>
+						<p>We bet on web development, mobile development, CMS solutions, and ecommerce presence to see a bright future for your organization.</p>
 						<a href="#" class="btn btn-theme">
 							What We do
 							<span class="btn-arrow">
@@ -113,7 +120,7 @@
 			</div>
 		</div>
 		<div class="col-md-7">
-			<p>Nulla facilisi. Nullam in magna id dolor blandit rutrum eget vulputate augue sed eu imperdiet.
+			<p>With our high-end services, we create a digital journey for our users that leads to hitting your goals.
 			</p>
 		</div>
 		</div>
@@ -127,8 +134,8 @@
 						  </div>
 						  <div class="col-md-9">
 							<div class="card-body">
-							  <h5>Development</h5>
-							  <p class="card-text">Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+							  <h5>Web Development</h5>
+							  <p class="card-text">Our passion for creating websites and web applications compatible with Web 3 leads us to deliver modern web solutions.
 							</p>
 							  <a href="#">Find out more</a>
 							  <img class="circle-shapes" src="img/circle-shapes.svg" alt="">
@@ -146,8 +153,8 @@
 						  </div>
 						  <div class="col-md-9">
 							<div class="card-body">
-							  <h5>Mobile Web Design</h5>
-							  <p class="card-text">Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+							  <h5>Mobile App Development</h5>
+							  <p class="card-text">We always bet on entirely mobile-friendly app development irrespective of its complexities. No compromise in performance.
 							</p>
 							  <a href="#">Find out more</a>
 							  <img class="circle-shapes" src="img/circle-shapes.svg" alt="">
@@ -165,8 +172,8 @@
 						  </div>
 						  <div class="col-md-9">
 							<div class="card-body">
-							  <h5>UI/UX Strategy</h5>
-							  <p class="card-text">Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+							  <h5>UI/UX Design</h5>
+							  <p class="card-text">UX is a key formula for our success, and we deliver it with excellence by crafting a smart user journey in your interface.
 							</p>
 							  <a href="#">Find out more</a>
 							  <img class="circle-shapes" src="img/circle-shapes.svg" alt="">
@@ -185,8 +192,8 @@
 						  </div>
 						  <div class="col-md-9">
 							<div class="card-body">
-							  <h5>Design</h5>
-							  <p class="card-text">Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+							  <h5>Ecommerce Development</h5>
+							  <p class="card-text">Ecommerce is gaining momentum, and we grab opportunities by delivering awesome shopping experiences using the latest tools and ecommerce technologies.
 							</p>
 							  <a href="#">Find out more</a>
 							  <img class="circle-shapes" src="img/circle-shapes.svg" alt="">
@@ -204,8 +211,8 @@
 						  </div>
 						  <div class="col-md-9">
 							<div class="card-body">
-							  <h5>Online marketing</h5>
-							  <p class="card-text">Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+							  <h5>CMS Development</h5>
+							  <p class="card-text">Content gains more significance in marketing than ever, and we provide the latest features and functionality in your content management system to win the battle.
 							</p>
 							  <a href="#">Find out more</a>
 							  <img class="circle-shapes" src="img/circle-shapes.svg" alt="">
@@ -223,8 +230,8 @@
 						  </div>
 						  <div class="col-md-9">
 							<div class="card-body">
-							  <h5>Content strategy</h5>
-							  <p class="card-text">Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+							  <h5>Online Marketing</h5>
+							  <p class="card-text">Beating your competitors in a fiercely competitive market is a challenge, and our profound experience, hands-on expertise in marketing tools, and our passion make it possible.
 							</p>
 							  <a href="#">Find out more</a>
 							  <img class="circle-shapes" src="img/circle-shapes.svg" alt="">
@@ -289,13 +296,13 @@
 						</h3>
 					</div>
 					<p>
-						Suspendisse potenti. Donec vel massa ut justo efficitur lacinia non ut felis. Etiam euismod, magna et efficitur ullamcorper, justo justo suscipit tellus, quis egestas lectus nulla ac velit. Morbi consequat vehicula tincidunt.
+					Earning big applause from our patrons is always remaining our unvocal aspiration. We have gathered a skilled team of designers, developers, UX professionals, QA professionals, marketers, and business analysts to combat modern challenges. 
 					</p>
 					<p>
-						Suspendisse purus nibh, lacinia ut rutrum eu, tincidunt eleifend ligula. Maecenas tristique est vitae erat semper pellentesque.
+					We have worked towards providing utmost satisfaction in each small to big project we faced. The first reason behind our ultimate success as a remote service-providing agency is our hard work, and passion is the next. 
 					</p>
 					<p>
-						Mauris sollicitudin tincidunt libero ac suscipit. Quisque ullamcorper consequat dui ut molestie.
+					Our constant endeavors to earn good ratings and reviews have always resulted in client satisfaction.
 					</p>
 
 					<div class="client-review-slider mt-5">

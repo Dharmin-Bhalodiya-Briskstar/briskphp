@@ -547,11 +547,8 @@
 	<script src="js/mobile-menu.js"></script>
 	<script src="js/mobile-flag.js"></script>
 	<script src="js/custom.js"></script>
+	<script src="js/verticle-tabs-slider.js"></script>
 
-	<script>
-$('#mainCarousel').carousel({
-    interval: 3000
-});
-	</script>
+	
 </body>
 </html>

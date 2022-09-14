@@ -990,6 +990,15 @@
 			<img src="img/icon/dot-border.svg" class="img-fluid" alt="" />
 		</div>
 	</section>
+
+
+
+
+
+
+
+
 <?php 
 	include 'footer.php';
 ?>
+
