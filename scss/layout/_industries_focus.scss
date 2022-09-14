@@ -1,0 +1,247 @@
+.industries_focus{
+    padding: 80px 0px;
+    position: relative;
+    background: url(../img/testimonial/testimonial-round-bg.svg) left center, url(../img/testimonial/testimonial-round-border.svg) right center, rgba(251, 84, 114, 0.05);;
+    background-repeat: no-repeat; 
+    min-height: 700px;
+    display: flex;
+    align-items: center;
+    .industries-focus-title {
+        p {
+            font-family: 'Poppins';
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 30px;
+            color: #2E2E2E;
+        }
+    }
+
+    .industries-focus-ul {
+        margin: 0px 0px;
+        padding: 0px 0px;
+        list-style: none;
+        display: flex;
+        flex-wrap: wrap;
+        li {
+            background: #FFFFFF;
+            box-shadow: 0px 8px 16px rgba(27, 43, 124, 0.2);
+            border-radius: 20px;
+            width: 18%;
+            padding: 30px 0px 10px 0px;
+            text-align: center;
+            margin: 0px 0px 20px 20px;
+            
+            overflow: hidden;
+            position: relative;
+            .industries-focus-box {
+                z-index: 9;
+                position: inherit;
+
+                .industries-focus-box-icon {
+                    img {
+                        margin: 0px 0px 20px 0px;
+                    }
+                }
+                h5 {
+                    font-family: 'Roboto Slab';
+                    font-weight: 700;
+                    font-size: 16px;
+                    line-height: 36px;
+                    letter-spacing: 0.05em;
+                    text-transform: capitalize;
+                    color: #2E2E2E;
+                    a {
+                        font-family: 'Roboto Slab';
+                        font-weight: 700;
+                        font-size: 20px;
+                        line-height: 36px;
+                        text-align: center;
+                        letter-spacing: 0.05em;
+                        text-transform: capitalize;
+                        color: #1B2B7C;
+                        display: block;
+                    }
+                }
+            }
+            &:hover, &:focus {
+                // background: linear-gradient(110.87deg, #EE3E5A -2.48%, #EE3F59 37.75%, #F04D3C 103.34%);
+                box-shadow: 0px 8px 16px rgba(27, 43, 124, 0.15);
+                border-radius: 20px;
+                .industries-focus-box-icon {
+                    img {
+                        filter: brightness(0) invert(1);
+                    }
+                }
+                .industries-focus-box {
+                    h5 {
+                        color: #FFFFFF;
+                        a {
+                            color: #fff;
+                        }
+                    }
+                }
+                .circle-shapes{
+                    opacity: 1;
+                    // transition: all 0.5s ease-in-out;
+                    right: -50px;
+                    bottom: -50px;
+                    width: 85%;
+                    z-index: 2;
+                }
+            }
+            .circle-shapes{
+                position: absolute;
+                bottom: -150px;
+                right: -150px;
+                opacity: 0;
+                transition: all 0.5s;
+            }
+            &:after{
+                content: "";
+                position: absolute;
+                background: linear-gradient(110.87deg, #EE3E5A -2.48%, #EE3F59 37.75%, #F04D3C 103.34%);
+                height: 100%;
+                width: 100%;
+                transition: all 0.5s ease-in-out;
+                opacity: 0;
+                left: 0;
+                top: 0;
+                z-index: 1;
+            }
+            &:hover{
+                &:after{
+                    opacity: 1;
+                }
+            }
+        }
+
+        .industries-focus-text {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+    &.white-bg{
+        background: url(../img/testimonial/testimonial-round-bg.svg) left center, url(../img/testimonial/testimonial-round-border.svg) right center, $white;
+        background-repeat: no-repeat;
+    }
+}
+
+
+@media (max-width: $laptop) {
+    .industries_focus {
+        padding: 30px 0px;
+        .industries-focus-title {
+            p {
+                font-size: 18px;
+            }
+        }
+        .industries-focus-ul {
+            li {
+                width: 17.5%;
+                padding: 20px 10px 10px 10px;
+                text-align: center;
+                margin: 0px 0px 20px 20px;
+
+                .industries-focus-box {
+                    h5 {
+                        font-size: 16px;
+                        line-height: 25px;
+                    }
+                }
+            }
+        }
+    }    
+}
+
+@media (max-width: $extra-small-laptop) {
+    .industries_focus {
+        padding: 30px 0px;
+        .industries-focus-title {
+            p {
+                font-size: 16px;
+            }
+        }
+        .industries-focus-ul {
+            li {
+                width: 30%;
+                padding: 20px 0px 0px 0px;
+                text-align: center;
+                margin: 0px 0px 20px 20px;
+
+                .industries-focus-box {
+                    h5 {
+                        a {
+                            margin: 0px 0px 20px 0px;
+                        }
+                    }
+                }
+            }
+        }
+    }    
+}
+
+@media (max-width: $ipad-landscape) {
+    .industries_focus {
+        .industries-focus-ul {
+            li {
+                width: 30%;
+                .industries-focus-box {
+                    h5 {
+                        a {
+                            margin-top: 0%;
+                            margin-bottom: 25px;
+                        }
+                    }
+                }
+            }
+        }
+    }    
+}
+
+@media (max-width: $ipad-portrait) {
+    .industries_focus {
+        padding: 100px 0px;
+        .industries-focus-title {
+            p {
+                font-size: 16px;
+                line-height: 25px;
+                margin: 10px 0px 20px;
+            }
+        }
+        .industries-focus-ul {
+            li {
+                width: 30%;
+            }
+        }
+    }    
+}
+
+@media (max-width: $small-mobile) {
+    .industries_focus {
+        padding: 70px 0px;
+        .industries-focus-title {
+            p {
+                font-size: 16px;
+                line-height: 25px;
+                margin: 10px 0px 20px;
+            }
+        }
+        .industries-focus-ul {
+            li {
+                width: 43%;
+
+                .industries-focus-box {
+                    h5 {
+                        font-size: 16px;
+                        line-height: 25px;
+
+                        a {
+                            margin: 20% 0px 20px 0px;
+                        }
+                    }
+                }
+            }
+        }
+    }    
+}

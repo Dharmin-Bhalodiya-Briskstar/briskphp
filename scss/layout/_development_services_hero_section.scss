@@ -1,0 +1,19 @@
+.development-services-hero-section{
+    .right-img{
+        margin: 0 auto;
+        display: block;
+        float: none;
+    }
+    p{
+        max-width: 85%;
+    }
+}
+
+
+@media (max-width: $large-mobile) {
+    .development-services-hero-section {
+        p{
+            max-width: 100%;
+        }
+    }
+}

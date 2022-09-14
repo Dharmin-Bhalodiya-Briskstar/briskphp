@@ -1,0 +1,103 @@
+.technology-spectrum-section{
+    padding: 120px 0 0;
+    .custom-card {
+        box-shadow: none;
+        border: 1px solid #DDDDDD;
+        border-radius: 16px;
+        transition: all 0.3s ease-in-out;
+        .technologies-box-ul {
+            justify-content: flex-start;
+            li{
+                width: 20%;
+                h5{
+                    display: block;
+                    margin: 0;
+                }
+            }
+        }
+        &:hover{
+            box-shadow: 0px 4px 10px rgba(27, 43, 124, 15%);
+            border: 1px solid transparent;
+            transform: translateY(-5px);
+        }
+        .technologies-work-box {
+            margin: 0px 40px;
+            padding: 0 0 20px;
+            border-bottom: 1px solid rgba(27, 43, 124, 0.05);
+            h5{
+                display: flex;
+                align-items: center;
+                img{
+                    margin-right: 20px;
+                }
+            }
+            .more-btn{
+                font-family: 'Poppins';
+                font-weight: $font-bold;
+                font-size: 20px;
+                line-height: 30px;
+                text-transform: capitalize;
+                color: $theme-pink;
+                position: relative;
+                padding-left: 60px;
+                &:after{
+                    content: "";
+                    position: absolute;
+                    top: 15px;
+                    left: 0;
+                    height: 2px;
+                    width: 40px;
+                    background: $theme-pink;
+                    border-radius: 10px;
+                }
+            }
+        }
+        .card-body{
+            padding: 40px 0 0;
+        }
+    }
+}
+
+
+@media (max-width: $large-laptop) {
+    .technology-spectrum-section {
+        .custom-card {
+            .card-body{
+                min-height: 370px;
+            }
+        }
+    }
+}
+
+@media (max-width: $ipad-portrait) {
+    .technology-spectrum-section {
+        .custom-card {
+            .card-body{
+                min-height: 460px;
+            }
+            .technologies-box-ul {
+                li{
+                    width: 50%;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: $large-mobile) {
+    .technology-spectrum-section {
+        .custom-card {
+            .card-body{
+                min-height: auto;
+            }
+            .technologies-work-box {
+                h5{
+                    font-size: 22px;
+                    line-height: normal;
+                }
+            }
+        }
+    }
+}
+
+

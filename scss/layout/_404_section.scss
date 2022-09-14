@@ -1,0 +1,46 @@
+.error-404-section {
+    padding: 90px 0px;
+
+    .error-404-text {
+        margin-top: 50px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: $font-normal;
+        font-size: 20px;
+        line-height: 30px;
+        text-transform: capitalize;
+        color: $text-color;
+    }
+
+    .error-404-btn {
+        margin-top: 10px;
+    }
+}
+
+@media (max-width: $ipad-pro)  {
+    .error-404-section {
+        padding: 30px 0px 0px; 
+    }
+}
+
+@media (max-width: $ipad-landscape) {
+    .error-404-section {
+        padding: 30px 0px 0px; 
+    }
+}
+
+@media (max-width: $ipad-portrait) {
+    .error-404-section {
+        padding: 50px 0px 0px; 
+    }
+}
+
+@media (max-width: $small-mobile) {
+    .error-404-section {
+        padding: 30px 0px 0px; 
+
+        .error-404-text {
+            margin-top: 30px;
+            text-align: center;
+        }
+    }
+}

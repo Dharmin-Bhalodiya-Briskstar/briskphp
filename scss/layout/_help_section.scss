@@ -1,0 +1,42 @@
+.help-section{
+    padding: 100px 0 30px;
+    ul{
+        display: flex;
+        justify-content: space-between;
+        margin: 0 auto 60px;
+        max-width: 30%;
+    }
+}
+
+@media (max-width: $large-laptop) {
+    .help-section{
+         ul{
+            max-width: 37%;
+        }
+    }
+}
+
+@media (max-width: $extra-small-laptop) {
+    .help-section{
+        ul{
+           max-width: 50%;
+       }
+       .first-text{
+        max-width: 80%;
+       }
+   }
+}
+
+@media (max-width: $large-mobile) {
+    .help-section {
+        .first-text{
+            max-width: 100%;
+        }
+        ul{
+            max-width: 100%;
+            li{
+                width: 15%;
+            }
+        }
+    }
+}
