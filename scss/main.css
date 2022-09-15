@@ -1350,9 +1350,9 @@ a.active {
   font-weight: 500;
   line-height: 25px;
   color: #fff;
-  padding: 12px 10px 11px;
+  padding: 12px 40px 11px 30px;
   position: relative;
-  width: 170px;
+  width: auto;
   border-radius: 25px 0px 0px 25px;
   border: 2px solid #fff;
 }
@@ -1640,9 +1640,6 @@ a.active {
     max-width: 90%;
     margin-bottom: 20px;
   }
-  .custom-slider .carousel-inner .carousel-caption .btn-theme {
-    width: 150px;
-  }
   .custom-slider .carousel-inner .custom-slider-left {
     max-width: 12%;
   }
@@ -1881,6 +1878,7 @@ a.active {
   line-height: 25px;
   text-transform: lowercase;
   color: #2E2E2E;
+  min-height: 150px;
 }
 
 .service-section .card a {
@@ -1964,6 +1962,11 @@ a.active {
   color: #2E2E2E;
 }
 
+@media (max-width: 1680px) {
+  .service-section .card h5 {
+    min-height: 89px;
+  }
+}
 @media (max-width: 1440px) {
   .service-section {
     padding: 50px 0;
@@ -1976,6 +1979,7 @@ a.active {
   }
   .service-section .card p {
     font-size: 16px;
+    min-height: 175px;
   }
   .service-section .card a {
     padding: 0 0 0 50px;
@@ -2006,6 +2010,9 @@ a.active {
   .service-section .card a:after {
     width: 30px;
   }
+  .service-section .card p {
+    min-height: 275px;
+  }
 }
 
 @media (max-width: 1024px) {
@@ -2016,6 +2023,7 @@ a.active {
     letter-spacing: 0;
     font-size: 20px;
     line-height: 30px;
+    min-height: 71px;
   }
   .service-section .card a {
     font-size: 17px;
@@ -2045,12 +2053,26 @@ a.active {
   .service-section .card a:after {
     width: 40px;
   }
+  .service-section .card p {
+    min-height: 200px;
+  }
   .service-section p {
     font-size: 16px;
     line-height: normal;
   }
 }
+<<<<<<< HEAD
+@media (max-width: 767px) {
+  .service-section .card h5 {
+    min-height: auto;
+  }
+  .service-section .card p {
+    min-height: auto;
+  }
+}
+=======
 
+>>>>>>> master
 @media (max-width: 576px) {
   .service-section {
     padding: 70px 0;
@@ -2940,6 +2962,7 @@ a.active {
   text-transform: lowercase;
   color: #2E2E2E;
   max-width: 95%;
+  min-height: 125px;
 }
 
 .technologies_work .custom-card .technologies-box-ul {
@@ -3016,6 +3039,9 @@ a.active {
     font-size: 40px;
     line-height: 50px;
   }
+  .technologies_work .custom-card .technologies-work-box p {
+    min-height: 155px;
+  }
 }
 
 @media (max-width: 1440px) {
@@ -3024,13 +3050,22 @@ a.active {
   }
   .technologies_work .custom-card .technologies-work-box p {
     font-size: 16px;
+    min-height: 125px;
   }
   .technologies_work .custom-card .technologies-box-ul li h5 {
     font-size: 14px;
     line-height: 25px;
   }
 }
+<<<<<<< HEAD
+@media (max-width: 1366px) {
+  .technologies_work .custom-card .technologies-work-box p {
+    min-height: 150px;
+  }
+}
+=======
 
+>>>>>>> master
 @media (max-width: 1280px) {
   .technologies_work .custom-title h3 {
     font-size: 34px;
@@ -3047,6 +3082,12 @@ a.active {
     text-align: center;
     display: inline-block;
     margin-bottom: 0px;
+  }
+  .technologies_work .custom-card .technologies-work-box h5 {
+    min-height: 69px;
+  }
+  .technologies_work .custom-card .technologies-work-box p {
+    min-height: 180px;
   }
 }
 
@@ -3091,6 +3132,9 @@ a.active {
 
 @media (max-width: 767px) {
   .technologies_work .custom-card {
+    min-height: auto;
+  }
+  .technologies_work .custom-card .technologies-work-box h5 {
     min-height: auto;
   }
 }
@@ -3350,9 +3394,6 @@ a.active {
   .industries_focus .industries-focus-ul li .industries-focus-box h5 {
     font-size: 16px;
     line-height: 25px;
-  }
-  .industries_focus .industries-focus-ul li .industries-focus-box h5 a {
-    margin: 20% 0px 20px 0px;
   }
 }
 

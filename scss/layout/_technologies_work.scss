@@ -69,6 +69,7 @@
                 text-transform: lowercase;
                 color: #2E2E2E;
                 max-width: 95%;
+                min-height: 125px;
             }
         }
         .technologies-box-ul {
@@ -132,6 +133,13 @@
                 line-height: 50px;
             }
         }
+        .custom-card {
+            .technologies-work-box {
+                p{
+                    min-height: 155px;
+                }
+            }
+        }
     }
 }
 
@@ -143,6 +151,7 @@
             .technologies-work-box {
                 p {
                     font-size: 16px;
+                    min-height: 125px;
                 }
             }
             .technologies-box-ul {
@@ -156,6 +165,20 @@
         }
     }    
 }
+
+@media (max-width: $small-laptop) {
+    .technologies_work {
+        .custom-card {
+            .technologies-work-box {
+                p{
+                    min-height: 150px;
+                }
+            }
+        }
+    }
+}
+
+
 
 @media (max-width: $ipad-pro) {
     .technologies_work {
@@ -178,6 +201,14 @@
                     text-align: center;
                     display: inline-block;
                     margin-bottom: 0px;
+                }
+            }
+            .technologies-work-box {
+                h5{
+                    min-height: 69px;
+                }
+                p{
+                    min-height: 180px;
                 }
             }
         }
@@ -236,6 +267,11 @@
     .technologies_work {
         .custom-card{
             min-height: auto;
+            .technologies-work-box {
+                h5{
+                    min-height: auto;
+                }
+            }
         }
     }
 }
