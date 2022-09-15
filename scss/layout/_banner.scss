@@ -237,8 +237,29 @@
         .carousel-inner {
             .carousel-caption {
                 top: 60%;
-                left: 15%;
+                left: 10%;
+
+                h5 {
+                    font-size: 30px;
+                    line-height: 40px;
+                    margin-bottom: 10px;
+                    max-width: 50%;
+                }
+
+                p {
+                    font-size: 16px;
+                    line-height: 25px;
+                    max-width: 46%;
+                    margin-bottom: 10px;
+                }
+
             }
+        }
+
+        
+
+        .carousel-indicators {
+            bottom: 0;
         }
     }
 }
@@ -247,18 +268,24 @@
     .custom-slider {
         .carousel-inner {
             .carousel-caption {
-                top: 60%;
+                top: 55%;
+                left: 10%;
+
                 h5 {
-                    font-size: 30px;
-                    line-height: 40px;
+                    font-size: 25px;
+                    line-height: 35px;
                     margin-bottom: 10px;
                     max-width: 40%;
+                    &:before {
+                        width: 80px;
+                    }
                 }
                 p {
-                    font-size: 16px;
-                    line-height: 25px;
-                    max-width: 49%;
-                    margin-bottom: 20px;
+                    font-size: 14px;
+                    line-height: 20px;
+                    max-width: 50%;
+                    margin-bottom: 10px;
+                
                 }
 
                 .btn-video-border {
@@ -287,20 +314,30 @@
 
 @media (max-width: $ipad-landscape) {
     .custom-slider {
+
+        margin-top: -85px;
+
         .carousel-inner {
             .carousel-caption {
-                top: 60%;
+                top: 57%;
+                left: 10%;
+
                 h5 {
-                    font-size: 27px;
-                    line-height: 35px;
+                    font-size: 25px;
+                    line-height: 30px;
                     max-width: 50%;
                     &:before {
                         top: 10px;
                     }
                 }
+
                 p {
+                    font-size: 14px;
+                    line-height: 20px;
                     max-width: 50%;
+                    margin-bottom: 10px;
                 }
+
                 .btn-theme {
                     font-size: 16px;
                     padding: 9px 10px 11px;
@@ -312,7 +349,7 @@
                     right: -30px;
                     bottom: 0;
                     background-color: #fff;
-                    padding: 5px 0px;
+                    padding: 2px 0px;
                     border-radius: 50%;
                     width: 49px;
                     height: 49px;
@@ -339,6 +376,10 @@
                     width: 100px;
                 }
             }
+        }
+
+        .carousel-indicators {
+            bottom: 0px;
         }
     }    
 }
@@ -377,10 +418,6 @@
             }
         }
     }    
-}
-
-@media (max-width: $large-mobile) {
-    
 }
 
 @media (max-width: $small-mobile) {
