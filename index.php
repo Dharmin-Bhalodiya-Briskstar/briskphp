@@ -22,7 +22,7 @@
 						Our hands-on command over web development, mobile development, CMS development, and ecommerce development is known in the industry.
 						</p>
 						<a href="#" class="btn btn-theme">
-							What We do
+						Ask for a free quote
 							<span class="btn-arrow">
 								<i class="fa-solid fa-angle-right"></i>
 							</span>
@@ -49,7 +49,7 @@
 						We bolster digitalization by creating your web and mobile presence to push up your organization next level and be compatible for an upcoming era.
 						</p>
 						<a href="#" class="btn btn-theme">
-							What We do
+						Let's Take the Next Step in Digitalization
 							<span class="btn-arrow">
 								<i class="fa-solid fa-angle-right"></i>
 							</span>
@@ -74,7 +74,7 @@
 						</p>
 						<p>We bet on web development, mobile development, CMS solutions, and ecommerce presence to see a bright future for your organization.</p>
 						<a href="#" class="btn btn-theme">
-							What We do
+						Let’s Drive More Values to Your Business.
 							<span class="btn-arrow">
 								<i class="fa-solid fa-angle-right"></i>
 							</span>
@@ -589,10 +589,10 @@
 						<div class="card-body">
 							<div class="technologies-work-box">
 								<h5>
-									Frontend
+								Frontend Development
 								</h5>
 								<p>
-									Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+								We create a user-friendly interface to give the best user experience in our web and mobile applications using the latest front-end development technologies and tools.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">
@@ -669,10 +669,10 @@
 						<div class="card-body">
 							<div class="technologies-work-box">
 								<h5>
-									Backend
+								Backend Development
 								</h5>
 								<p>
-									Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+								Our development leads to exceptional backend management capabilities for your applications, where you can quickly access every feature and functionality.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">
@@ -749,10 +749,10 @@
 						<div class="card-body">
 							<div class="technologies-work-box">
 								<h5>
-									mobile application
+								Mobile App Development
 								</h5>
 								<p>
-									Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+								We bolstered on completely responsive design that lets your target audience enjoys seamless UX across the devices and attain the best performance.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">
@@ -829,10 +829,10 @@
 						<div class="card-body">
 							<div class="technologies-work-box">
 								<h5>
-									SEO & Lead Generation
+								SEO & Lead Generation
 								</h5>
 								<p>
-									Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+								We consider search engines the next audience and build apps meeting their requirements completely. Our converting design brings more leads to your business.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">
@@ -909,10 +909,10 @@
 						<div class="card-body">
 							<div class="technologies-work-box">
 								<h5>
-									Emerging Technologies
+								Emerging Technologies
 								</h5>
 								<p>
-									Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+								We keep a close eye on emerging technologies and encourage our team to acquire skills to be an early bird. This approach establishes us as an updated team.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">
@@ -989,10 +989,10 @@
 						<div class="card-body">
 							<div class="technologies-work-box">
 								<h5>
-									API Integration
+								API Integration
 								</h5>
 								<p>
-									Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+								We deliver seamless integration services through various APIs integration, including web services, cloud services, and third-party software to extend the functionality of applications.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">

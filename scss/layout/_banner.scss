@@ -75,9 +75,9 @@
                 background: $btn-theme-bg;
                 @include body-text;
                 color: #fff;
-                padding: 12px 10px 11px;
+                padding: 12px 40px 11px 30px;
                 position: relative;
-                width: 170px;
+                width: auto;
                 border-radius: 25px 0px 0px 25px;
                 border: 2px solid #fff;
             }
@@ -368,9 +368,6 @@
                     margin-bottom: 20px;
                 }
 
-                .btn-theme {
-                    width: 150px;
-                }
             }
             .custom-slider-left {
                 max-width: 12%;
