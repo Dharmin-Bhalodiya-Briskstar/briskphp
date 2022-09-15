@@ -55,10 +55,10 @@
 		<header>
 			<nav class="navbar navbar-expand-lg custom-navbar">
 				<div class="container-fluid">
-				  	<a class="navbar-brand desktop-logo" href="index.html">
+				  	<a class="navbar-brand desktop-logo" href="index.php">
 						<img src="img/Logo.svg" class="img-fluid" alt="Logo" />
 				  	</a>
-				  	<a class="navbar-brand mobile-logo" href="index.html">
+				  	<a class="navbar-brand mobile-logo" href="index.php">
 						<img src="img/briskstar-logo.svg" class="img-fluid" alt="Logo" />
 				  	</a>
 				  	<button class="navbar-toggler mobile-toggler" type="button" onclick="openNav()">
@@ -67,7 +67,7 @@
 				  	<div class="collapse navbar-collapse" id="navbarSupportedContent">
 						<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
 					  		<li class="nav-item dropdown">
-								<a class="nav-link dropdown-toggle active" href="services.html">
+								<a class="nav-link dropdown-toggle active" href="services.php">
 									Services
 								</a> 
 								<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -845,7 +845,7 @@
 								</ul>
 					 		 </li>
 							<li class="nav-item dropdown">
-								<a class="nav-link dropdown-toggle" href="build-your-team.html">Build Your Team</a>
+								<a class="nav-link dropdown-toggle" href="build-your-team.php">Build Your Team</a>
 								<ul class="dropdown-menu build-dropdown" aria-labelledby="navbarDropdown">
 									<div class="row">
 										<div class="col-md-9 left-section p-0">
@@ -1014,10 +1014,10 @@
 								</ul>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link " href="#">Technology</a>
+								<a class="nav-link " href="technology.php">Technology</a>
 							</li>
 							<li class="nav-item dropdown">
-								<a class="nav-link dropdown-toggle" href="our-work.html">Our Work</a>
+								<a class="nav-link dropdown-toggle" href="our-work.php">Our Work</a>
 								<ul class="dropdown-menu our-work-dropdown" aria-labelledby="navbarDropdown">
 									<div class="row">
 										<div class="col-md-9 left-section p-0">
@@ -1143,16 +1143,16 @@
 								</ul>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="about-us.html">Company</a>
+								<a class="nav-link" href="company.php">Company</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="#">Career</a>
+								<a class="nav-link" href="career.php">Career</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="#">Blog</a>
+								<a class="nav-link" href="blog.php">Blog</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="#">Contact Us</a>
+								<a class="nav-link" href="contact-us.php">Contact Us</a>
 							</li>
 							<li class="nav-item navbar-custom-btn">
 								<a class="btn btn-theme" href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#request_quote_popup">REQUEST A QUOTE</a>
@@ -1170,7 +1170,7 @@
 							</a>
 						</span>
 						<li class="">
-							<a href="services.html">
+							<a href="services.php">
 								Services
 							</a>
 							<span class="mobile-mega-menu-span">
@@ -2124,7 +2124,7 @@
 							</ul>
 						</li>
 						<li>
-							<a href="javascript:void(0);">
+							<a href="build-your-team.php">
 								Build Your Team
 							</a>
 							<span class="mobile-mega-menu-span">
@@ -2287,12 +2287,12 @@
 							</ul>
 						</li>
 						<li>
-							<a href="javascript:void(0);">
+							<a href="technology.php">
 								Technology
 							</a>
 						</li>
 						<li>
-							<a href="javascript:void(0);">Work</a>
+							<a href="our-work.php">Our Work</a>
 							<span class="mobile-mega-menu-span">
 							</span>
 							<ul>
@@ -2390,22 +2390,22 @@
 							</ul>
 						</li>
 						<li>
-							<a href="javascript:void(0);">
+							<a href="company.php">
 								Company
 							</a>
 						</li>
 						<li>
-							<a href="javascript:void(0);">
+							<a href="career.php">
 								Career
 							</a>
 						</li>
 						<li>
-							<a href="javascript:void(0);">
+							<a href="blog.php">
 								Blog
 							</a>
 						</li>
 						<li>
-							<a href="javascript:void(0);">
+							<a href="contact-us.php">
 								Contact Us
 							</a>
 						</li>
