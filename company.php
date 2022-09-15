@@ -9,8 +9,7 @@
 			<div class="row align-items-center">
 				<div class="col-lg-5 col-md-12">
 					<div class="common-title">
-						<h1>Company
-							Overview</h1>
+						<h1>Company Overview</h1>
 					</div>
 					<p>Briskstar Technologies is a broad service ecommerce agency exceeding more than 5+ years of experience in Microsoft platform, ecommerce consulting, web design, web development, integration, support and marketing (SEO).
 					</p>

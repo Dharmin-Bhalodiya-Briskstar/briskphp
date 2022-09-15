@@ -808,9 +808,7 @@
                 }
             }
         }
-    }
-
-    
+    }  
 }
 
 @media (max-width: $extra-small-laptop) {
@@ -818,8 +816,16 @@
         .custom-navbar {
             .navbar-nav {
                 .nav-link {
-                    padding: 35px 10px 0px;
+                    padding: 15px 8px 0px;
                     font-size: 15px;
+                }
+
+                .navbar-custom-btn {
+                    padding: 15px 0px 0px;
+
+                    .btn-theme {
+                        padding: 6px 10px;
+                    }
                 }
 
                 .dropdown-menu {
@@ -864,10 +870,6 @@
                         }
                     } 
                 }
-
-                .navbar-custom-btn {
-                    padding: 30px 0px 0px;
-                }
             }
         }
     }
@@ -884,8 +886,19 @@
 
             .navbar-nav {
                 .nav-link {
-                    padding: 35px 10px 20px 5px;
+                    padding: 15px 5px 20px 8px;
                     font-size: 14px;
+                }
+
+                .navbar-custom-btn {
+                    padding: 20px 0px 0px;
+
+                    .btn-theme {
+                        font-size: 14px;
+                        padding: 5px 10px;
+                        margin-top: 8px;
+                        margin-bottom: -8px;
+                    }
                 }
 
                 .dropdown-menu {
