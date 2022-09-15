@@ -40,10 +40,10 @@
                         <div class="card-body">
                             <div class="technologies-work-box">
                                 <h5>
-                                    <img src="img/technology-page/phone-icon.svg" class="img-fluid" alt="" /> Frontend
+                                    <img src="img/technology-page/phone-icon.svg" class="img-fluid" alt="" /> Frontend Development
                                 </h5>
                                 <p>
-                                    Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+                                we create a user-friendly interface to give the best user experience in our web and mobile applications using the latest front-end development technologies and tools.
                                 </p>
                                 <a class="more-btn" href="#">More</a>
                             </div>
@@ -89,10 +89,10 @@
                         <div class="card-body">
                             <div class="technologies-work-box">
                                 <h5>
-                                    <img src="img/technology-page/phone-icon.svg" class="img-fluid" alt="" />Backend
+                                    <img src="img/technology-page/phone-icon.svg" class="img-fluid" alt="" />Backend Development
                                 </h5>
                                 <p>
-                                    Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+                                our development leads to exceptional backend management capabilities for your applications, where you can quickly access every feature and functionality.
                                 </p>
                                 <a class="more-btn" href="#">More</a>
                                 </div>
@@ -139,10 +139,10 @@
                         <div class="card-body">
                             <div class="technologies-work-box">
                                 <h5>
-                                    <img src="img/technology-page/phone-icon.svg" class="img-fluid" alt="" />mobile application
+                                    <img src="img/technology-page/phone-icon.svg" class="img-fluid" alt="" />Mobile App Development
                                 </h5>
                                 <p>
-                                    Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+                                we bolstered on completely responsive design that lets your target audience enjoys seamless ux across the devices and attain the best performance.
                                 </p>
                                 <a class="more-btn" href="#">More</a>
                             </div>
@@ -192,7 +192,7 @@
                                     <img src="img/technology-page/phone-icon.svg" class="img-fluid" alt="" />SEO & Lead Generation
                                 </h5>
                                 <p>
-                                    Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+                                we consider search engines the next audience and build apps meeting their requirements completely. our converting design brings more leads to your business.
                                 </p>
                                 <a class="more-btn" href="#">More</a>
                             </div>
@@ -242,7 +242,7 @@
                                     <img src="img/technology-page/phone-icon.svg" class="img-fluid" alt="" />Emerging Technologies
                                 </h5>
                                 <p>
-                                    Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+                                we keep a close eye on emerging technologies and encourage our team to acquire skills to be an early bird. this approach establishes us as an updated team.
                                 </p>
                                 <a class="more-btn" href="#">More</a>
                             </div>
@@ -292,7 +292,7 @@
                                     <img src="img/technology-page/phone-icon.svg" class="img-fluid" alt="" />API Integration
                                 </h5>
                                 <p>
-                                    Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
+                                we deliver seamless integration services through various apis integration, including web services, cloud services, and third-party software to extend the functionality of applications.
                                 </p>
                                 <a class="more-btn" href="#">More</a>
                             </div>
