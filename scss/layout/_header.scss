@@ -1,6 +1,6 @@
 .hero-section {
     position: relative;
-    z-index: 1;
+    z-index: 9999999;
     .topbar {
         height: 50px;
         background: $theme-gradient;
@@ -1077,3 +1077,6 @@
         }
     }
 } 
+
+
+

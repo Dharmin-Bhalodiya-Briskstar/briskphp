@@ -104,6 +104,7 @@
     .custom-title-primary{
         padding: 0 0 70px;
     }
+
     p{
         font-family: 'Poppins';
         font-style: normal;
@@ -111,7 +112,11 @@
         font-size: 20px;
         line-height: 30px;
         color: #2E2E2E;
+    }
 
+    .border-text {
+        border-left: 1px solid rgba(0, 0, 0, 0.1);
+        padding: 30px 40px;
     }
 }
 
@@ -178,6 +183,11 @@
                 min-height: 275px;
             }
         }
+
+        .border-text {
+            border-left: 1px solid rgba(0, 0, 0, 0.1);
+            padding: 10px 20px;
+        }
     }
 }
 
@@ -202,6 +212,11 @@
                     bottom: -110px;
                 }
             }
+        }
+
+        .border-text {
+            border-left: 1px solid rgba(0, 0, 0, 0.1);
+            padding: 10px 20px;
         }
     }    
 }
@@ -231,6 +246,11 @@
             font-size: 16px;
             line-height: normal;
         }
+
+        .border-text {
+            border-left: 1px solid rgba(0, 0, 0, 0.1);
+            padding: 10px 20px;
+        }
     }
 }
 
@@ -242,6 +262,11 @@
             }
             p{
                 min-height: auto;
+            }
+
+            .border-text {
+                border-left: 1px solid rgba(0, 0, 0, 0.1);
+                padding: 10px 20px;
             }
         }
     }
@@ -256,6 +281,11 @@
         p {
             font-size: 16px;
             line-height: normal;
+        }
+
+        .border-text {
+            border-left: 0px;
+            padding: 0px;
         }
     }    
 }
