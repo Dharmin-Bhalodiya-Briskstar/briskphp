@@ -1,0 +1,46 @@
+.our-team-section {
+    padding: 150px 0 50px;
+    background: #FDECEE;
+    margin-top: -120px;
+}
+
+.team-text-section {
+    padding: 80px 0px;
+
+    .content-blk {
+        .common-title {
+            h2 {
+                max-width: 90%;
+            }
+        }
+
+        p {
+            max-width: 90%;
+            margin: 0px 0px;
+        }
+    }
+
+    .team-list-section {
+        padding: 0px 0px;
+        margin: 50px 0px 0px 0px;
+        list-style: none;
+
+        li {
+            position: relative;
+            padding: 0 0 15px 30px;
+            font-size: 18px;
+            color: #2E2E2E;
+            width: 100%;
+            display: block;
+            &:after {
+                content: "";
+                position: absolute;
+                left: 0;
+                top: 5px;
+                width: 19px;
+                height: 19px;
+                background: url(../img/about-us-page/helping-hand-list-bg.svg) no-repeat;
+            }
+        }
+    }
+}

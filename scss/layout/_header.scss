@@ -901,7 +901,7 @@
             padding: 0px 10px 20px;
 
             &.fixed-navbar {
-                padding: 0px 10px 20px;
+                padding: 10px 10px 15px;
             }
 
             .desktop-logo {
@@ -1026,6 +1026,15 @@
         .custom-navbar {
             padding: 10px 0px 10px 20px;
 
+            .custom-toggler-icon {
+                background: none;
+                width: auto;
+                height: auto;
+                font-size: 30px;
+                color: #1B2B7C;
+                vertical-align: middle;
+            }
+
             &.fixed-navbar {
                 padding: 5px 0px 5px 20px;
     
@@ -1033,6 +1042,10 @@
                     img {
                         filter: brightness(0) invert(1);
                     }
+                }
+
+                .custom-toggler-icon {
+                    color: #fff;
                 }
             }
         }
@@ -1093,15 +1106,29 @@
         .custom-navbar {
             padding: 10px 0px;
 
+            .custom-toggler-icon {
+                background: none;
+                width: auto;
+                height: auto;
+                font-size: 30px;
+                color: #1B2B7C;
+                vertical-align: middle;
+            }
+            
             &.fixed-navbar {
-                padding: 0px 0px 5px;
+                padding: 5px 0px 5px;
     
                 .mobile-logo {
                     img {
                         filter: brightness(0) invert(1);
                     }
                 }
+
+                .custom-toggler-icon {
+                    color: #fff;
+                }
             }
+            
         }
     }
 
