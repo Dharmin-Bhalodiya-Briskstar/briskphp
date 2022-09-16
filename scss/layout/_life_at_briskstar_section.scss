@@ -1,0 +1,50 @@
+.life-at-briskstar-section{
+    padding: 100px 0 20px;
+    img{
+        display: block;
+        margin: 0 auto;
+    }
+    .custom-title-primary{
+        h3{
+            font-size: 52px;
+            line-height: 62px;
+            text-transform: capitalize;
+            color: $theme-pink;
+            margin: 0 0 10px;
+        }
+        span{
+            position: relative;
+            &:after{
+                content: "";
+                position: absolute;
+                left: -40px;
+                top: -32px;
+                height: 90px;
+                width: 90px;
+                background: url(../img/life-at-briskstar/life-at-briskstar-circle.svg) no-repeat center left;
+            }
+        }
+    }
+}
+
+@media (max-width: $large-laptop) {
+    .life-at-briskstar-section {
+        .custom-title-primary {
+            h3{
+                font-size: 40px;
+                line-height: 50px;
+            }
+        }
+    }
+}
+
+@media (max-width: $ipad-pro) {
+    .life-at-briskstar-section {
+        .custom-title-primary {
+            h3{
+                font-size: 34px;
+                line-height: 45px;
+            }
+        }
+    }
+}
