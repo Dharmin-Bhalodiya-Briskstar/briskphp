@@ -327,504 +327,504 @@
 
     
     <section class="technologies_work">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <div class="custom-title">
-                        <span>
-                            TECHNOLOGY STACK
-                        </span>
-                        <h3>
-                            Technologies we work <br/> with
-                        </h3>
-                    </div>
-                </div>
-            </div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<div class="custom-title">
+						<span>
+							TECHNOLOGY STACK
+						</span>
+						<h3>
+							Technologies we work <br/> with
+						</h3>
+					</div>
+				</div>
+			</div>
 
-            <div class="row mt-5">
-                <div class="col-md-6 col-lg-4">
-                    <div class="card custom-card">
-                        <div class="card-body">
-                            <div class="technologies-work-box">
-                                <h5>
-                                    Frontend
-                                </h5>
-                                <p>
-                                    Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
-                                </p>
-                            </div>
-                            <ul class="technologies-box-ul">
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Angular.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Angular
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/VueJS.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        VueJS
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/React.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        React
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/KnockoutJs.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        KnockoutJs
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Angular.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Angular
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/VueJS.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        VueJS
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/React.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        React
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/KnockoutJs.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        KnockoutJs
-                                    </h5>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="card custom-card">
-                        <div class="card-body">
-                            <div class="technologies-work-box">
-                                <h5>
-                                    Backend
-                                </h5>
-                                <p>
-                                    Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
-                                </p>
-                            </div>
-                            <ul class="technologies-box-ul">
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/NET-Core.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        .NET Core
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Node.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Node
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/PHP.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        PHP
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Java.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Java
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/NET-Core.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        .NET Core
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Node.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Node
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/PHP.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        PHP
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Java.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Java
-                                    </h5>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="card custom-card">
-                        <div class="card-body">
-                            <div class="technologies-work-box">
-                                <h5>
-                                    mobile application
-                                </h5>
-                                <p>
-                                    Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
-                                </p>
-                            </div>
-                            <ul class="technologies-box-ul">
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/React.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        React Native
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Flutter.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Flutter
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Android.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Android
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Apple.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        IOS
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/React.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        React Native
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Flutter.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Flutter
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Android.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Android
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Apple.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        IOS
-                                    </h5>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="card custom-card">
-                        <div class="card-body">
-                            <div class="technologies-work-box">
-                                <h5>
-                                    SEO & Lead Generation
-                                </h5>
-                                <p>
-                                    Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
-                                </p>
-                            </div>
-                            <ul class="technologies-box-ul">
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Seo.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Seo
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Ppc.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Ppc
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Email-Marketing.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Email Marketing
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Smm.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Smm
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Seo.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Seo
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Ppc.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Ppc
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Email-Marketing.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Email Marketing
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Smm.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Smm
-                                    </h5>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="card custom-card">
-                        <div class="card-body">
-                            <div class="technologies-work-box">
-                                <h5>
-                                    Emerging Technologies
-                                </h5>
-                                <p>
-                                    Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
-                                </p>
-                            </div>
-                            <ul class="technologies-box-ul">
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Iot.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Iot
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Blockchain.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Blockchain
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Chatbot.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Chatbot
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/DevOps.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        DevOps
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Iot.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Iot
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Blockchain.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Blockchain
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Chatbot.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Chatbot
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/DevOps.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        DevOps
-                                    </h5>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="card custom-card">
-                        <div class="card-body">
-                            <div class="technologies-work-box">
-                                <h5>
-                                    API Integration
-                                </h5>
-                                <p>
-                                    Whether bringing new amazing products and services to market, or discovering new ways to make mature products.
-                                </p>
-                            </div>
-                            <ul class="technologies-box-ul">
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/DevOps.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        DevOps
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Aws.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Aws
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Azure.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Azure
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Sass.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Sass
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/DevOps.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        DevOps
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Aws.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Aws
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Azure.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Azure
-                                    </h5>
-                                </li>
-                                <li>
-                                    <div class="technologies-box-icon">
-                                        <img src="img/technologies-icon/Sass.svg" class="img-fluid" alt="" />
-                                    </div>
-                                    <h5>
-                                        Sass
-                                    </h5>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+			<div class="row mt-5">
+				<div class="col-md-6 col-lg-4">
+					<div class="card custom-card">
+						<div class="card-body">
+							<div class="technologies-work-box">
+								<h5>
+								Frontend Development
+								</h5>
+								<p>
+								We create a user-friendly interface to give the best user experience in our web and mobile applications using the latest front-end development technologies and tools.
+								</p>
+							</div>
+							<ul class="technologies-box-ul">
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Angular.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Angular
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/VueJS.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										VueJS
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/React.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										React
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/KnockoutJs.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										KnockoutJs
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Angular.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Angular
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/VueJS.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										VueJS
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/React.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										React
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/KnockoutJs.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										KnockoutJs
+									</h5>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-4">
+					<div class="card custom-card">
+						<div class="card-body">
+							<div class="technologies-work-box">
+								<h5>
+								Backend Development
+								</h5>
+								<p>
+								Our development leads to exceptional backend management capabilities for your applications, where you can quickly access every feature and functionality.
+								</p>
+							</div>
+							<ul class="technologies-box-ul">
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/NET-Core.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										.NET Core
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Node.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Node
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/PHP.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										PHP
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Java.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Java
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/NET-Core.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										.NET Core
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Node.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Node
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/PHP.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										PHP
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Java.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Java
+									</h5>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-4">
+					<div class="card custom-card">
+						<div class="card-body">
+							<div class="technologies-work-box">
+								<h5>
+								Mobile App Development
+								</h5>
+								<p>
+								We bolstered on completely responsive design that lets your target audience enjoys seamless UX across the devices and attain the best performance.
+								</p>
+							</div>
+							<ul class="technologies-box-ul">
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/React.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										React Native
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Flutter.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Flutter
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Android.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Android
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Apple.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										IOS
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/React.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										React Native
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Flutter.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Flutter
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Android.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Android
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Apple.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										IOS
+									</h5>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-4">
+					<div class="card custom-card">
+						<div class="card-body">
+							<div class="technologies-work-box">
+								<h5>
+								SEO & Lead Generation
+								</h5>
+								<p>
+								We consider search engines the next audience and build apps meeting their requirements completely. Our converting design brings more leads to your business.
+								</p>
+							</div>
+							<ul class="technologies-box-ul">
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Seo.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Seo
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Ppc.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Ppc
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Email-Marketing.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Email Marketing
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Smm.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Smm
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Seo.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Seo
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Ppc.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Ppc
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Email-Marketing.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Email Marketing
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Smm.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Smm
+									</h5>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-4">
+					<div class="card custom-card">
+						<div class="card-body">
+							<div class="technologies-work-box">
+								<h5>
+								Emerging Technologies
+								</h5>
+								<p>
+								We keep a close eye on emerging technologies and encourage our team to acquire skills to be an early bird. This approach establishes us as an updated team.
+								</p>
+							</div>
+							<ul class="technologies-box-ul">
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Iot.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Iot
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Blockchain.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Blockchain
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Chatbot.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Chatbot
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/DevOps.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										DevOps
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Iot.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Iot
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Blockchain.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Blockchain
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Chatbot.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Chatbot
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/DevOps.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										DevOps
+									</h5>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-4">
+					<div class="card custom-card">
+						<div class="card-body">
+							<div class="technologies-work-box">
+								<h5>
+								API Integration
+								</h5>
+								<p>
+								We deliver seamless integration services through various APIs integration, including web services, cloud services, and third-party software to extend the functionality of applications.
+								</p>
+							</div>
+							<ul class="technologies-box-ul">
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/DevOps.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										DevOps
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Aws.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Aws
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Azure.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Azure
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Sass.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Sass
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/DevOps.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										DevOps
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Aws.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Aws
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Azure.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Azure
+									</h5>
+								</li>
+								<li>
+									<div class="technologies-box-icon">
+										<img src="img/technologies-icon/Sass.svg" class="img-fluid" alt="" />
+									</div>
+									<h5>
+										Sass
+									</h5>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 
     <section class="industries_focus">
         <div class="container">
