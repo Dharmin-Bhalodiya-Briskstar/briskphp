@@ -1,0 +1,195 @@
+.team-img-section {
+    padding: 100px 0px;
+
+    .common-title-two {
+        h5 {
+            &:after {
+                background-color: #EE3F59;
+            }
+        }
+    }
+
+    .common-title {
+        h2 {
+            max-width: 40%;
+            margin: 0 auto;
+        }
+
+        p {
+            max-width: 70%;
+            margin: 0 auto;
+            margin-top: 30px;
+        }
+    }
+
+    .team-img-list {
+        margin: 60px 0px 0px 0px;
+        padding: 0px 0px;
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-flow: wrap;
+
+        li {
+            width: 8%;
+            margin: 0px 0px 10px;
+            padding: 0px 0px;
+            display: inline-block;
+            border-radius: 8px 8px 0px 0px;
+            position: relative;
+            overflow: hidden;
+
+            img {
+                width: 100%;
+                max-height: 150px;
+                border-radius: 8px 8px 0px 0px;
+                filter: grayscale(1);
+            }
+
+            .hover-text {
+                background: linear-gradient(185.63deg, #F0562D 24.8%, #EE3F59 95.48%);
+                opacity: 0.75;
+                padding: 5px 0px;
+                text-align: center;
+                border-radius: 0px 0px 8px 8px;
+                opacity: 0;
+                transform: translateY(20px);
+                transition: all 0.5s ease-in-out;
+                position: absolute;
+                bottom: 0;
+                width: 100%;
+                span {
+                    font-weight: $font-bold;
+                    font-size: 14px;
+                    line-height: 18px;
+                    text-align: center;
+                    text-transform: capitalize;
+                    color: $white;
+                }
+            }
+
+            &:hover {
+                img {
+                    filter: unset;
+                }
+
+                .hover-text {
+                    opacity: 1;
+                    transform: translateY(0px);
+                }
+            }
+
+        }
+    }
+}
+
+@media (max-width: $small-laptop) {
+    .team-img-section {
+        .common-title {
+            p {
+                max-width: 90%;
+            }
+        }
+    }
+}
+
+@media (max-width: $ipad-pro) {
+    .team-img-section {
+        .common-title {
+            h2 {
+                max-width: 35%;
+                margin: 0 auto;
+            }
+
+            p {
+                max-width: 80%;
+                margin: 0 auto;
+                margin-top: 10px;
+                font-size: 16px;
+                line-height: 25px;
+            }
+        }
+
+        .team-img-list {
+            li {
+                width: 12%;
+            }
+        }
+    }
+
+}
+
+@media (max-width: $extra-small-laptop) {
+    .team-img-section {
+        .common-title {
+
+            h2 {
+                max-width: 40%;
+                margin: 0 auto;
+            }
+
+            p {
+                max-width: 100%;
+                margin: 0 auto;
+                margin-top: 10px;
+                font-size: 16px;
+                line-height: 25px;
+            }
+        }
+        
+        .team-img-list {
+
+            margin: 30px 0px 0px 0px;
+
+            li {
+                width: 12%;
+            }
+        }
+    }
+}
+
+@media (max-width: $ipad-portrait) {
+    .team-img-section {
+
+        .common-title {
+            h2 {
+                max-width: 50%;
+                margin: 0 auto;
+            }
+        }
+
+        .team-img-list {
+            li {
+                width: 15%;
+            }
+        }
+    }
+}
+
+@media (max-width: $small-mobile) {
+    .team-img-section {
+
+        .common-title {
+
+            h2 {
+                max-width: 100%;
+                margin: 0 auto;
+            }
+
+            p {
+                max-width: 100%;
+                margin: 0 auto;
+                margin-top: 10px;
+                font-size: 16px;
+                line-height: 25px;
+            }
+        }
+
+        .team-img-list {
+            li {
+                width: 30%;
+            }
+        }
+    }
+}

@@ -62,7 +62,7 @@
 						<img src="img/briskstar-logo.svg" class="img-fluid" alt="Logo" />
 				  	</a>
 				  	<button class="navbar-toggler mobile-toggler" type="button" onclick="openNav()">
-						<span class="navbar-toggler-icon"></span>
+						<span class="custom-toggler-icon fa-solid fa-bars"></span> 
 				  	</button>
 				  	<div class="collapse navbar-collapse" id="navbarSupportedContent">
 						<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
@@ -74,736 +74,604 @@
 									<div class="row">
 										<div class="col-md-9 left-section p-0">
 											<div class="d-flex main-dropdown-service">
-											   <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-												 <button class="nav-link tab-link " id="v-pills-Dedic-devel-tab" data-bs-toggle="pill" data-bs-target="#v-pills-Dedic-devel" type="button" role="tab" aria-controls="v-pills-Dedic-devel" aria-selected="true">Dedicated Developer</button>
-												 <button class="nav-link tab-link active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">Web Development</button>
-												 <button class="nav-link tab-link" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">Profile</button>
-												 <button class="nav-link tab-link" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Digital Marketing
-											   </button>
-												 <button class="nav-link tab-link" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">Support and Hosting</button>
-												 <button class="nav-link tab-link" id="v-pills-mobile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-mobile" type="button" role="tab" aria-controls="v-pills-mobile" aria-selected="false">Mobile Apps
-											   </button>
-												 <button class="nav-link tab-link" id="v-pills-support-tab" data-bs-toggle="pill" data-bs-target="#v-pills-support" type="button" role="tab" aria-controls="v-pills-support" aria-selected="false">Support and Hosting</button>
-												 <button class="nav-link tab-link" id="v-pills-email-tab" data-bs-toggle="pill" data-bs-target="#v-pills-email" type="button" role="tab" aria-controls="v-pills-email" aria-selected="false">Email & Office
-											   </button>
-												 <button class="nav-link tab-link" id="v-pills-crm-tab" data-bs-toggle="pill" data-bs-target="#v-pills-crm" type="button" role="tab" aria-controls="v-pills-crm" aria-selected="false">CRM</button>
-												 <button class="nav-link tab-link" id="v-pills-software-tab" data-bs-toggle="pill" data-bs-target="#v-pills-software" type="button" role="tab" aria-controls="v-pills-software" aria-selected="false">Software
-											   </button>
-											   </div>
-											   <div class="tab-content" id="v-pills-tabContent">
-												 <div class="tab-pane fade" id="v-pills-Dedic-devel" role="tabpanel" aria-labelledby="v-pills-Dedic-devel-tab">
-		   
-													 <h2>Dedicated Developer</h2>
-													 <p>Websites that work as hard as you do!</p>
-														 <div class="d-flex service-inner-block">
-															 <div class="inner-list">
-															 <h3>Website Design</h3>
-															 <ul>
-																 <li>
-																	 <a href="">Web Design</a>
-																 </li>
-																 <li>
-																	 <a href="">Web Development</a>
-																 </li>
-																 <li>
-																	 <a href="">Open Source Website Development</a>
-																 </li>
-																 <li>
-																	 <a href="">Free Website Analysis</a>
-																 </li>
-															 </ul>
-														 </div>
-													 
+												<div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+													<button class="nav-link tab-link " id="v-pills-Dedic-devel-tab" data-bs-toggle="pill" data-bs-target="#v-pills-Dedic-devel" type="button" role="tab" aria-controls="v-pills-Dedic-devel" aria-selected="true">Dedicated Developer</button>
+													<button class="nav-link tab-link active" id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">Web Development</button>
+													<button class="nav-link tab-link" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Digital Marketing</button>
+													<button class="nav-link tab-link" id="v-pills-settings-tab" data-bs-toggle="pill" data-bs-target="#v-pills-settings" type="button" role="tab" aria-controls="v-pills-settings" aria-selected="false">Support and Hosting</button>
+													<button class="nav-link tab-link" id="v-pills-mobile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-mobile" type="button" role="tab" aria-controls="v-pills-mobile" aria-selected="false">Mobile Apps</button>
+													<button class="nav-link tab-link" id="v-pills-support-tab" data-bs-toggle="pill" data-bs-target="#v-pills-support" type="button" role="tab" aria-controls="v-pills-support" aria-selected="false">Support and Hosting</button>
+													<button class="nav-link tab-link" id="v-pills-email-tab" data-bs-toggle="pill" data-bs-target="#v-pills-email" type="button" role="tab" aria-controls="v-pills-email" aria-selected="false">Email & Office</button>
+													<button class="nav-link tab-link" id="v-pills-crm-tab" data-bs-toggle="pill" data-bs-target="#v-pills-crm" type="button" role="tab" aria-controls="v-pills-crm" aria-selected="false">CRM</button>
+													<button class="nav-link tab-link" id="v-pills-software-tab" data-bs-toggle="pill" data-bs-target="#v-pills-software" type="button" role="tab" aria-controls="v-pills-software" aria-selected="false">Software</button>
+												</div>
+												<div class="tab-content" id="v-pills-tabContent">
+													<div class="tab-pane fade" id="v-pills-Dedic-devel" role="tabpanel" aria-labelledby="v-pills-Dedic-devel-tab">
+														<h2>Dedicated Developer</h2>
+														<p>Websites that work as hard as you do!</p>
+														<div class="d-flex service-inner-block">
 															<div class="inner-list">
-															 <h3>Ecommerce</h3>
-															 <ul>
-																 <li>
-																	 <a href="">Ecommerce Website</a>
-																 </li>
-																 <li>
-																	 <a href="">Bill Payment Systems</a>
-																 </li>
-															 </ul>
-														 </div>
-			 
-														 <div class="inner-list">
-															 <h3>Content Management Solutions</h3>
-															 <ul>
-																 <li>
-																	 <a href="">PowerPanel</a>
-																 </li>
-																 <li>
-																	 <a href="">WordPress</a>
-																 </li>
-																 <li>
-																	 <a href="">Joomla</a>
-																 </li>
-																 <li>
-																	 <a href="">Drupal</a>
-																 </li>
-															 </ul>
-														 </div>
-			 
-														 <div class="inner-list">
-															 <h3>Open Source Website Development</h3>
-															 <ul>
-																 <li>
-																	 <a href="">Read More</a>
-																 </li>
-																 <li>
-																	 <a href="">Request a Quote</a>
-																 </li>
-															 </ul>
-														 </div>
-													 </div>
-			 
-												   </div>
-												 <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-		   
-												   <h2>Web Development</h2>
-												   <p>Websites that work as hard as you do!</p>
-													   <div class="d-flex service-inner-block">
-														   <div class="inner-list">
-														   <h3>Website Design</h3>
-														   <ul>
-															   <li>
-																   <a href="">Web Design</a>
-															   </li>
-															   <li>
-																   <a href="">Web Development</a>
-															   </li>
-															   <li>
-																   <a href="">Open Source Website Development</a>
-															   </li>
-															   <li>
-																   <a href="">Free Website Analysis</a>
-															   </li>
-														   </ul>
-													   </div>
-												   
-														  <div class="inner-list">
-														   <h3>Ecommerce</h3>
-														   <ul>
-															   <li>
-																   <a href="">Ecommerce Website</a>
-															   </li>
-															   <li>
-																   <a href="">Bill Payment Systems</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Content Management Solutions</h3>
-														   <ul>
-															   <li>
-																   <a href="">PowerPanel</a>
-															   </li>
-															   <li>
-																   <a href="">WordPress</a>
-															   </li>
-															   <li>
-																   <a href="">Joomla</a>
-															   </li>
-															   <li>
-																   <a href="">Drupal</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Open Source Website Development</h3>
-														   <ul>
-															   <li>
-																   <a href="">Read More</a>
-															   </li>
-															   <li>
-																   <a href="">Request a Quote</a>
-															   </li>
-														   </ul>
-													   </div>
-												   </div>
-													   
-												   
-												 </div>
-												 <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-		   
-												   <h2>Profile</h2>
-												   <p>Websites that work as hard as you do!</p>
-													   <div class="d-flex service-inner-block">
-														   <div class="inner-list">
-														   <h3>Website Design</h3>
-														   <ul>
-															   <li>
-																   <a href="">Web Design</a>
-															   </li>
-															   <li>
-																   <a href="">Web Development</a>
-															   </li>
-															   <li>
-																   <a href="">Open Source Website Development</a>
-															   </li>
-															   <li>
-																   <a href="">Free Website Analysis</a>
-															   </li>
-														   </ul>
-													   </div>
-												   
-														  <div class="inner-list">
-														   <h3>Ecommerce</h3>
-														   <ul>
-															   <li>
-																   <a href="">Ecommerce Website</a>
-															   </li>
-															   <li>
-																   <a href="">Bill Payment Systems</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Content Management Solutions</h3>
-														   <ul>
-															   <li>
-																   <a href="">PowerPanel</a>
-															   </li>
-															   <li>
-																   <a href="">WordPress</a>
-															   </li>
-															   <li>
-																   <a href="">Joomla</a>
-															   </li>
-															   <li>
-																   <a href="">Drupal</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Open Source Website Development</h3>
-														   <ul>
-															   <li>
-																   <a href="">Read More</a>
-															   </li>
-															   <li>
-																   <a href="">Request a Quote</a>
-															   </li>
-														   </ul>
-													   </div>
-												   </div>
-		   
-												 </div>
-												 <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
-		   
-		   
-												   <h2>Digital Marketing</h2>
-												   <p>Websites that work as hard as you do!</p>
-													   <div class="d-flex service-inner-block">
-														   <div class="inner-list">
-														   <h3>Website Design</h3>
-														   <ul>
-															   <li>
-																   <a href="">Web Design</a>
-															   </li>
-															   <li>
-																   <a href="">Web Development</a>
-															   </li>
-															   <li>
-																   <a href="">Open Source Website Development</a>
-															   </li>
-															   <li>
-																   <a href="">Free Website Analysis</a>
-															   </li>
-														   </ul>
-													   </div>
-												   
-														  <div class="inner-list">
-														   <h3>Ecommerce</h3>
-														   <ul>
-															   <li>
-																   <a href="">Ecommerce Website</a>
-															   </li>
-															   <li>
-																   <a href="">Bill Payment Systems</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Content Management Solutions</h3>
-														   <ul>
-															   <li>
-																   <a href="">PowerPanel</a>
-															   </li>
-															   <li>
-																   <a href="">WordPress</a>
-															   </li>
-															   <li>
-																   <a href="">Joomla</a>
-															   </li>
-															   <li>
-																   <a href="">Drupal</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Open Source Website Development</h3>
-														   <ul>
-															   <li>
-																   <a href="">Read More</a>
-															   </li>
-															   <li>
-																   <a href="">Request a Quote</a>
-															   </li>
-														   </ul>
-													   </div>
-												   </div>
-		   
-												 </div>
-												 <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
-		   
-		   
-												   <h2>Support and Hosting</h2>
-												   <p>Websites that work as hard as you do!</p>
-													   <div class="d-flex service-inner-block">
-														   <div class="inner-list">
-														   <h3>Website Design</h3>
-														   <ul>
-															   <li>
-																   <a href="">Web Design</a>
-															   </li>
-															   <li>
-																   <a href="">Web Development</a>
-															   </li>
-															   <li>
-																   <a href="">Open Source Website Development</a>
-															   </li>
-															   <li>
-																   <a href="">Free Website Analysis</a>
-															   </li>
-														   </ul>
-													   </div>
-												   
-														  <div class="inner-list">
-														   <h3>Ecommerce</h3>
-														   <ul>
-															   <li>
-																   <a href="">Ecommerce Website</a>
-															   </li>
-															   <li>
-																   <a href="">Bill Payment Systems</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Content Management Solutions</h3>
-														   <ul>
-															   <li>
-																   <a href="">PowerPanel</a>
-															   </li>
-															   <li>
-																   <a href="">WordPress</a>
-															   </li>
-															   <li>
-																   <a href="">Joomla</a>
-															   </li>
-															   <li>
-																   <a href="">Drupal</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Open Source Website Development</h3>
-														   <ul>
-															   <li>
-																   <a href="">Read More</a>
-															   </li>
-															   <li>
-																   <a href="">Request a Quote</a>
-															   </li>
-														   </ul>
-													   </div>
-												   </div>
-		   
-												 </div>
-		   
-		   
-												 <div class="tab-pane fade" id="v-pills-mobile" role="tabpanel" aria-labelledby="v-pills-mobile-tab">
-		   
-		   
-												   <h2>Mobile Apps</h2>
-												   <p>Websites that work as hard as you do!</p>
-													   <div class="d-flex service-inner-block">
-														   <div class="inner-list">
-														   <h3>Website Design</h3>
-														   <ul>
-															   <li>
-																   <a href="">Web Design</a>
-															   </li>
-															   <li>
-																   <a href="">Web Development</a>
-															   </li>
-															   <li>
-																   <a href="">Open Source Website Development</a>
-															   </li>
-															   <li>
-																   <a href="">Free Website Analysis</a>
-															   </li>
-														   </ul>
-													   </div>
-												   
-														  <div class="inner-list">
-														   <h3>Ecommerce</h3>
-														   <ul>
-															   <li>
-																   <a href="">Ecommerce Website</a>
-															   </li>
-															   <li>
-																   <a href="">Bill Payment Systems</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Content Management Solutions</h3>
-														   <ul>
-															   <li>
-																   <a href="">PowerPanel</a>
-															   </li>
-															   <li>
-																   <a href="">WordPress</a>
-															   </li>
-															   <li>
-																   <a href="">Joomla</a>
-															   </li>
-															   <li>
-																   <a href="">Drupal</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Open Source Website Development</h3>
-														   <ul>
-															   <li>
-																   <a href="">Read More</a>
-															   </li>
-															   <li>
-																   <a href="">Request a Quote</a>
-															   </li>
-														   </ul>
-													   </div>
-												   </div>
-		   
-												 </div>
-		   
-												 <div class="tab-pane fade" id="v-pills-support" role="tabpanel" aria-labelledby="v-pills-support-tab">
-		   
-		   
-												   <h2>Support and Hosting</h2>
-												   <p>Websites that work as hard as you do!</p>
-													   <div class="d-flex service-inner-block">
-														   <div class="inner-list">
-														   <h3>Website Design</h3>
-														   <ul>
-															   <li>
-																   <a href="">Web Design</a>
-															   </li>
-															   <li>
-																   <a href="">Web Development</a>
-															   </li>
-															   <li>
-																   <a href="">Open Source Website Development</a>
-															   </li>
-															   <li>
-																   <a href="">Free Website Analysis</a>
-															   </li>
-														   </ul>
-													   </div>
-												   
-														  <div class="inner-list">
-														   <h3>Ecommerce</h3>
-														   <ul>
-															   <li>
-																   <a href="">Ecommerce Website</a>
-															   </li>
-															   <li>
-																   <a href="">Bill Payment Systems</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Content Management Solutions</h3>
-														   <ul>
-															   <li>
-																   <a href="">PowerPanel</a>
-															   </li>
-															   <li>
-																   <a href="">WordPress</a>
-															   </li>
-															   <li>
-																   <a href="">Joomla</a>
-															   </li>
-															   <li>
-																   <a href="">Drupal</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Open Source Website Development</h3>
-														   <ul>
-															   <li>
-																   <a href="">Read More</a>
-															   </li>
-															   <li>
-																   <a href="">Request a Quote</a>
-															   </li>
-														   </ul>
-													   </div>
-												   </div>
-		   
-												 </div>
-		   
-		   
-												 <div class="tab-pane fade" id="v-pills-email" role="tabpanel" aria-labelledby="v-pills-email-tab">
-		   
-		   
-												   <h2>Email & Office</h2>
-												   <p>Websites that work as hard as you do!</p>
-													   <div class="d-flex service-inner-block">
-														   <div class="inner-list">
-														   <h3>Website Design</h3>
-														   <ul>
-															   <li>
-																   <a href="">Web Design</a>
-															   </li>
-															   <li>
-																   <a href="">Web Development</a>
-															   </li>
-															   <li>
-																   <a href="">Open Source Website Development</a>
-															   </li>
-															   <li>
-																   <a href="">Free Website Analysis</a>
-															   </li>
-														   </ul>
-													   </div>
-												   
-														  <div class="inner-list">
-														   <h3>Ecommerce</h3>
-														   <ul>
-															   <li>
-																   <a href="">Ecommerce Website</a>
-															   </li>
-															   <li>
-																   <a href="">Bill Payment Systems</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Content Management Solutions</h3>
-														   <ul>
-															   <li>
-																   <a href="">PowerPanel</a>
-															   </li>
-															   <li>
-																   <a href="">WordPress</a>
-															   </li>
-															   <li>
-																   <a href="">Joomla</a>
-															   </li>
-															   <li>
-																   <a href="">Drupal</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Open Source Website Development</h3>
-														   <ul>
-															   <li>
-																   <a href="">Read More</a>
-															   </li>
-															   <li>
-																   <a href="">Request a Quote</a>
-															   </li>
-														   </ul>
-													   </div>
-												   </div>
-		   
-												 </div>
-		   
-												 <div class="tab-pane fade" id="v-pills-crm" role="tabpanel" aria-labelledby="v-pills-crm-tab">
-		   
-		   
-												   <h2>CRM</h2>
-												   <p>Websites that work as hard as you do!</p>
-													   <div class="d-flex service-inner-block">
-														   <div class="inner-list">
-														   <h3>Website Design</h3>
-														   <ul>
-															   <li>
-																   <a href="">Web Design</a>
-															   </li>
-															   <li>
-																   <a href="">Web Development</a>
-															   </li>
-															   <li>
-																   <a href="">Open Source Website Development</a>
-															   </li>
-															   <li>
-																   <a href="">Free Website Analysis</a>
-															   </li>
-														   </ul>
-													   </div>
-												   
-														  <div class="inner-list">
-														   <h3>Ecommerce</h3>
-														   <ul>
-															   <li>
-																   <a href="">Ecommerce Website</a>
-															   </li>
-															   <li>
-																   <a href="">Bill Payment Systems</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Content Management Solutions</h3>
-														   <ul>
-															   <li>
-																   <a href="">PowerPanel</a>
-															   </li>
-															   <li>
-																   <a href="">WordPress</a>
-															   </li>
-															   <li>
-																   <a href="">Joomla</a>
-															   </li>
-															   <li>
-																   <a href="">Drupal</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Open Source Website Development</h3>
-														   <ul>
-															   <li>
-																   <a href="">Read More</a>
-															   </li>
-															   <li>
-																   <a href="">Request a Quote</a>
-															   </li>
-														   </ul>
-													   </div>
-												   </div>
-		   
-												 </div>
-		   
-												 <div class="tab-pane fade" id="v-pills-software" role="tabpanel" aria-labelledby="v-pills-software-tab">
-		   
-		   
-												   <h2>Software</h2>
-												   <p>Websites that work as hard as you do!</p>
-													   <div class="d-flex service-inner-block">
-														   <div class="inner-list">
-														   <h3>Website Design</h3>
-														   <ul>
-															   <li>
-																   <a href="">Web Design</a>
-															   </li>
-															   <li>
-																   <a href="">Web Development</a>
-															   </li>
-															   <li>
-																   <a href="">Open Source Website Development</a>
-															   </li>
-															   <li>
-																   <a href="">Free Website Analysis</a>
-															   </li>
-														   </ul>
-													   </div>
-												   
-														  <div class="inner-list">
-														   <h3>Ecommerce</h3>
-														   <ul>
-															   <li>
-																   <a href="">Ecommerce Website</a>
-															   </li>
-															   <li>
-																   <a href="">Bill Payment Systems</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Content Management Solutions</h3>
-														   <ul>
-															   <li>
-																   <a href="">PowerPanel</a>
-															   </li>
-															   <li>
-																   <a href="">WordPress</a>
-															   </li>
-															   <li>
-																   <a href="">Joomla</a>
-															   </li>
-															   <li>
-																   <a href="">Drupal</a>
-															   </li>
-														   </ul>
-													   </div>
-		   
-													   <div class="inner-list">
-														   <h3>Open Source Website Development</h3>
-														   <ul>
-															   <li>
-																   <a href="">Read More</a>
-															   </li>
-															   <li>
-																   <a href="">Request a Quote</a>
-															   </li>
-														   </ul>
-													   </div>
-												   </div>
-		   
-												 </div>
-											   </div>
-											 </div>
-											 <div class="d-flex step-block">
-											   <div class="step-left">
-												   <h3>Steps to Engage</h3>	
-											   </div>
-											   <div class="step-right">
-												   <ul>
-													   <li>
-														   <span>1<img class="circle-shapes" src="img/circle-shapes.svg" alt="circle-shapes"></span>
-														   <p>Post your project requirement</p>
-													   </li>
-													   <li>
-														   <span>2<img class="circle-shapes" src="img/circle-shapes.svg" alt="circle-shapes"></span>
-														   <p>Discuss project details with our technical analysts</p>
-													   </li>
-													   <li>
-														   <span>3<img class="circle-shapes" src="img/circle-shapes.svg" alt="circle-shapes"></span>
-														   <p>Select engagement model and timeline</p>
-													   </li>
-													   <li>
-														   <span>4<img class="circle-shapes" src="img/circle-shapes.svg" alt="circle-shapes"></span>
-														   <p>And we start coding</p>
-													   </li>
-												   </ul>
-											   </div>
-											 </div>
-									   </div>
+																<h3>Website Design</h3>
+																<ul>
+																	<li>
+																		<a href="">Web Design</a>
+																	</li>
+																	<li>
+																		<a href="">Web Development</a>
+																	</li>
+																	<li>
+																		<a href="">Open Source Website Development</a>
+																	</li>
+																	<li>
+																		<a href="">Free Website Analysis</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Ecommerce</h3>
+																<ul>
+																	<li>
+																		<a href="">Ecommerce Website</a>
+																	</li>
+																	<li>
+																		<a href="">Bill Payment Systems</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Content Management Solutions</h3>
+																<ul>
+																	<li>
+																		<a href="">PowerPanel</a>
+																	</li>
+																	<li>
+																		<a href="">WordPress</a>
+																	</li>
+																	<li>
+																		<a href="">Joomla</a>
+																	</li>
+																	<li>
+																		<a href="">Drupal</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Open Source Website Development</h3>
+																<ul>
+																	<li>
+																		<a href="">Read More</a>
+																	</li>
+																	<li>
+																		<a href="">Request a Quote</a>
+																	</li>
+																</ul>
+															</div>
+														</div>
+													</div>
+													<div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+														<h2>Web Development</h2>
+														<p>Websites that work as hard as you do!</p>
+														<div class="d-flex service-inner-block">
+															<div class="inner-list">
+																<h3>Website Design</h3>
+																<ul>
+																	<li>
+																		<a href="">Web Design</a>
+																	</li>
+																	<li>
+																		<a href="">Web Development</a>
+																	</li>
+																	<li>
+																		<a href="">Open Source Website Development</a>
+																	</li>
+																	<li>
+																		<a href="">Free Website Analysis</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Ecommerce</h3>
+																<ul>
+																	<li>
+																		<a href="">Ecommerce Website</a>
+																	</li>
+																	<li>
+																		<a href="">Bill Payment Systems</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Content Management Solutions</h3>
+																<ul>
+																	<li>
+																		<a href="">PowerPanel</a>
+																	</li>
+																	<li>
+																		<a href="">WordPress</a>
+																	</li>
+																	<li>
+																		<a href="">Joomla</a>
+																	</li>
+																	<li>
+																		<a href="">Drupal</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Open Source Website Development</h3>
+																<ul>
+																	<li>
+																		<a href="">Read More</a>
+																	</li>
+																	<li>
+																		<a href="">Request a Quote</a>
+																	</li>
+																</ul>
+															</div>
+														</div>
+													</div>
+													<div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+														<h2>Digital Marketing</h2>
+														<p>Websites that work as hard as you do!</p>
+														<div class="d-flex service-inner-block">
+															<div class="inner-list">
+																<h3>Website Design</h3>
+																<ul>
+																	<li>
+																		<a href="">Web Design</a>
+																	</li>
+																	<li>
+																		<a href="">Web Development</a>
+																	</li>
+																	<li>
+																		<a href="">Open Source Website Development</a>
+																	</li>
+																	<li>
+																		<a href="">Free Website Analysis</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Ecommerce</h3>
+																<ul>
+																	<li>
+																		<a href="">Ecommerce Website</a>
+																	</li>
+																	<li>
+																		<a href="">Bill Payment Systems</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Content Management Solutions</h3>
+																<ul>
+																	<li>
+																		<a href="">PowerPanel</a>
+																	</li>
+																	<li>
+																		<a href="">WordPress</a>
+																	</li>
+																	<li>
+																		<a href="">Joomla</a>
+																	</li>
+																	<li>
+																		<a href="">Drupal</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Open Source Website Development</h3>
+																<ul>
+																	<li>
+																		<a href="">Read More</a>
+																	</li>
+																	<li>
+																		<a href="">Request a Quote</a>
+																	</li>
+																</ul>
+															</div>
+														</div>
+													</div>
+													<div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
+														<h2>Support and Hosting</h2>
+														<p>Websites that work as hard as you do!</p>
+														<div class="d-flex service-inner-block">
+															<div class="inner-list">
+																<h3>Website Design</h3>
+																<ul>
+																	<li>
+																		<a href="">Web Design</a>
+																	</li>
+																	<li>
+																		<a href="">Web Development</a>
+																	</li>
+																	<li>
+																		<a href="">Open Source Website Development</a>
+																	</li>
+																	<li>
+																		<a href="">Free Website Analysis</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Ecommerce</h3>
+																<ul>
+																	<li>
+																		<a href="">Ecommerce Website</a>
+																	</li>
+																	<li>
+																		<a href="">Bill Payment Systems</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Content Management Solutions</h3>
+																<ul>
+																	<li>
+																		<a href="">PowerPanel</a>
+																	</li>
+																	<li>
+																		<a href="">WordPress</a>
+																	</li>
+																	<li>
+																		<a href="">Joomla</a>
+																	</li>
+																	<li>
+																		<a href="">Drupal</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Open Source Website Development</h3>
+																<ul>
+																	<li>
+																		<a href="">Read More</a>
+																	</li>
+																	<li>
+																		<a href="">Request a Quote</a>
+																	</li>
+																</ul>
+															</div>
+														</div>
+													</div>
+													<div class="tab-pane fade" id="v-pills-mobile" role="tabpanel" aria-labelledby="v-pills-mobile-tab">
+														<h2>Mobile Apps</h2>
+														<p>Websites that work as hard as you do!</p>
+														<div class="d-flex service-inner-block">
+															<div class="inner-list">
+																<h3>Website Design</h3>
+																<ul>
+																	<li>
+																		<a href="">Web Design</a>
+																	</li>
+																	<li>
+																		<a href="">Web Development</a>
+																	</li>
+																	<li>
+																		<a href="">Open Source Website Development</a>
+																	</li>
+																	<li>
+																		<a href="">Free Website Analysis</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Ecommerce</h3>
+																<ul>
+																	<li>
+																		<a href="">Ecommerce Website</a>
+																	</li>
+																	<li>
+																		<a href="">Bill Payment Systems</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Content Management Solutions</h3>
+																<ul>
+																	<li>
+																		<a href="">PowerPanel</a>
+																	</li>
+																	<li>
+																		<a href="">WordPress</a>
+																	</li>
+																	<li>
+																		<a href="">Joomla</a>
+																	</li>
+																	<li>
+																		<a href="">Drupal</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Open Source Website Development</h3>
+																<ul>
+																	<li>
+																		<a href="">Read More</a>
+																	</li>
+																	<li>
+																		<a href="">Request a Quote</a>
+																	</li>
+																</ul>
+															</div>
+														</div>
+													</div>
+													<div class="tab-pane fade" id="v-pills-support" role="tabpanel" aria-labelledby="v-pills-support-tab">
+														<h2>Support and Hosting</h2>
+														<p>Websites that work as hard as you do!</p>
+														<div class="d-flex service-inner-block">
+															<div class="inner-list">
+																<h3>Website Design</h3>
+																<ul>
+																	<li>
+																		<a href="">Web Design</a>
+																	</li>
+																	<li>
+																		<a href="">Web Development</a>
+																	</li>
+																	<li>
+																		<a href="">Open Source Website Development</a>
+																	</li>
+																	<li>
+																		<a href="">Free Website Analysis</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Ecommerce</h3>
+																<ul>
+																	<li>
+																		<a href="">Ecommerce Website</a>
+																	</li>
+																	<li>
+																		<a href="">Bill Payment Systems</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Content Management Solutions</h3>
+																<ul>
+																	<li>
+																		<a href="">PowerPanel</a>
+																	</li>
+																	<li>
+																		<a href="">WordPress</a>
+																	</li>
+																	<li>
+																		<a href="">Joomla</a>
+																	</li>
+																	<li>
+																		<a href="">Drupal</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Open Source Website Development</h3>
+																<ul>
+																	<li>
+																		<a href="">Read More</a>
+																	</li>
+																	<li>
+																		<a href="">Request a Quote</a>
+																	</li>
+																</ul>
+															</div>
+														</div>
+													</div>
+													<div class="tab-pane fade" id="v-pills-email" role="tabpanel" aria-labelledby="v-pills-email-tab">
+														<h2>Email & Office</h2>
+														<p>Websites that work as hard as you do!</p>
+														<div class="d-flex service-inner-block">
+															<div class="inner-list">
+																<h3>Website Design</h3>
+																<ul>
+																	<li>
+																		<a href="">Web Design</a>
+																	</li>
+																	<li>
+																		<a href="">Web Development</a>
+																	</li>
+																	<li>
+																		<a href="">Open Source Website Development</a>
+																	</li>
+																	<li>
+																		<a href="">Free Website Analysis</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Ecommerce</h3>
+																<ul>
+																	<li>
+																		<a href="">Ecommerce Website</a>
+																	</li>
+																	<li>
+																		<a href="">Bill Payment Systems</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Content Management Solutions</h3>
+																<ul>
+																	<li>
+																		<a href="">PowerPanel</a>
+																	</li>
+																	<li>
+																		<a href="">WordPress</a>
+																	</li>
+																	<li>
+																		<a href="">Joomla</a>
+																	</li>
+																	<li>
+																		<a href="">Drupal</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Open Source Website Development</h3>
+																<ul>
+																	<li>
+																		<a href="">Read More</a>
+																	</li>
+																	<li>
+																		<a href="">Request a Quote</a>
+																	</li>
+																</ul>
+															</div>
+														</div>
+													</div>
+													<div class="tab-pane fade" id="v-pills-crm" role="tabpanel" aria-labelledby="v-pills-crm-tab">
+														<h2>CRM</h2>
+														<p>Websites that work as hard as you do!</p>
+														<div class="d-flex service-inner-block">
+															<div class="inner-list">
+																<h3>Website Design</h3>
+																<ul>
+																	<li>
+																		<a href="">Web Design</a>
+																	</li>
+																	<li>
+																		<a href="">Web Development</a>
+																	</li>
+																	<li>
+																		<a href="">Open Source Website Development</a>
+																	</li>
+																	<li>
+																		<a href="">Free Website Analysis</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Ecommerce</h3>
+																<ul>
+																	<li>
+																		<a href="">Ecommerce Website</a>
+																	</li>
+																	<li>
+																		<a href="">Bill Payment Systems</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Content Management Solutions</h3>
+																<ul>
+																	<li>
+																		<a href="">PowerPanel</a>
+																	</li>
+																	<li>
+																		<a href="">WordPress</a>
+																	</li>
+																	<li>
+																		<a href="">Joomla</a>
+																	</li>
+																	<li>
+																		<a href="">Drupal</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Open Source Website Development</h3>
+																<ul>
+																	<li>
+																		<a href="">Read More</a>
+																	</li>
+																	<li>
+																		<a href="">Request a Quote</a>
+																	</li>
+																</ul>
+															</div>
+														</div>
+													</div>
+													<div class="tab-pane fade" id="v-pills-software" role="tabpanel" aria-labelledby="v-pills-software-tab">
+														<h2>Software</h2>
+														<p>Websites that work as hard as you do!</p>
+														<div class="d-flex service-inner-block">
+															<div class="inner-list">
+																<h3>Website Design</h3>
+																<ul>
+																	<li>
+																		<a href="">Web Design</a>
+																	</li>
+																	<li>
+																		<a href="">Web Development</a>
+																	</li>
+																	<li>
+																		<a href="">Open Source Website Development</a>
+																	</li>
+																	<li>
+																		<a href="">Free Website Analysis</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Ecommerce</h3>
+																<ul>
+																	<li>
+																		<a href="">Ecommerce Website</a>
+																	</li>
+																	<li>
+																		<a href="">Bill Payment Systems</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Content Management Solutions</h3>
+																<ul>
+																	<li>
+																		<a href="">PowerPanel</a>
+																	</li>
+																	<li>
+																		<a href="">WordPress</a>
+																	</li>
+																	<li>
+																		<a href="">Joomla</a>
+																	</li>
+																	<li>
+																		<a href="">Drupal</a>
+																	</li>
+																</ul>
+															</div>
+															<div class="inner-list">
+																<h3>Open Source Website Development</h3>
+																<ul>
+																	<li>
+																		<a href="">Read More</a>
+																	</li>
+																	<li>
+																		<a href="">Request a Quote</a>
+																	</li>
+																</ul>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+											<div class="d-flex step-block">
+												<div class="step-left">
+													<h3>Steps to Engage</h3>	
+												</div>
+												<div class="step-right">
+													<ul>
+														<li>
+															<span>1<img class="circle-shapes" src="img/circle-shapes.svg" alt="circle-shapes"></span>
+															<p>Post your project requirement</p>
+														</li>
+														<li>
+															<span>2<img class="circle-shapes" src="img/circle-shapes.svg" alt="circle-shapes"></span>
+															<p>Discuss project details with our technical analysts</p>
+														</li>
+														<li>
+															<span>3<img class="circle-shapes" src="img/circle-shapes.svg" alt="circle-shapes"></span>
+															<p>Select engagement model and timeline</p>
+														</li>
+														<li>
+															<span>4<img class="circle-shapes" src="img/circle-shapes.svg" alt="circle-shapes"></span>
+															<p>And we start coding</p>
+														</li>
+													</ul>
+												</div>
+											</div>
+										</div>
 										<div class="col-md-3 p-0 right-section">
 											<div class="contact-us">
 												<h3>Contact Us</h3>
@@ -811,7 +679,8 @@
 													<span>
 														<img src="img/icon/mega-menu-email-icon.svg" alt="" class="" />
 													</span>
-													info@briskstar.com</a>
+													info@briskstar.com
+												</a>
 												<a href="tel:">
 													<span>
 														<img src="img/icon/mega-menu-phone-icon.svg" alt="" class="" />
@@ -821,29 +690,28 @@
 												<img src="img/theme-shape.svg" alt="">
 												<h4>FOLLOW</h4>
 												<ul class="social-media">
-												<li>
-													<a href=""><i class="fab fa-facebook-f"></i></a>
-												</li>
-												<li>
-													<a href=""><i class="fab fa-linkedin-in"></i></a>
-												</li>
-												<li>
-													<a href=""><i class="fab fa-instagram"></i></a>
-												</li>
-												<li>
-													<a href=""><i class="fab fa-twitter"></i></a>
-												</li>
-												<li>
-													<a href=""><i class="fab fa-youtube"></i></a>
-												</li>
+													<li>
+														<a href=""><i class="fab fa-facebook-f"></i></a>
+													</li>
+													<li>
+														<a href=""><i class="fab fa-linkedin-in"></i></a>
+													</li>
+													<li>
+														<a href=""><i class="fab fa-instagram"></i></a>
+													</li>
+													<li>
+														<a href=""><i class="fab fa-twitter"></i></a>
+													</li>
+													<li>
+														<a href=""><i class="fab fa-youtube"></i></a>
+													</li>
 												</ul>
 												<p>&copy; Briskstar Technologies 2022</p>
 											</div>
-											
 										</div>
 									</div>
 								</ul>
-					 		 </li>
+							</li>
 							<li class="nav-item dropdown">
 								<a class="nav-link dropdown-toggle" href="build-your-team.php">Build Your Team</a>
 								<ul class="dropdown-menu build-dropdown" aria-labelledby="navbarDropdown">
@@ -980,7 +848,7 @@
 													<span>
 														<img src="img/icon/mega-menu-email-icon.svg" alt="" class="" />
 													</span>
-													info@briskstar.com</a>
+												info@briskstar.com</a>
 												<a href="tel:">
 													<span>
 														<img src="img/icon/mega-menu-phone-icon.svg" alt="" class="" />
@@ -990,25 +858,24 @@
 												<img src="img/theme-shape.svg" alt="">
 												<h4>FOLLOW</h4>
 												<ul class="social-media">
-												<li>
-													<a href=""><i class="fab fa-facebook-f"></i></a>
-												</li>
-												<li>
-													<a href=""><i class="fab fa-linkedin-in"></i></a>
-												</li>
-												<li>
-													<a href=""><i class="fab fa-instagram"></i></a>
-												</li>
-												<li>
-													<a href=""><i class="fab fa-twitter"></i></a>
-												</li>
-												<li>
-													<a href=""><i class="fab fa-youtube"></i></a>
-												</li>
+													<li>
+														<a href=""><i class="fab fa-facebook-f"></i></a>
+													</li>
+													<li>
+														<a href=""><i class="fab fa-linkedin-in"></i></a>
+													</li>
+													<li>
+														<a href=""><i class="fab fa-instagram"></i></a>
+													</li>
+													<li>
+														<a href=""><i class="fab fa-twitter"></i></a>
+													</li>
+													<li>
+														<a href=""><i class="fab fa-youtube"></i></a>
+													</li>
 												</ul>
 												<p>&copy; Briskstar Technologies 2022</p>
 											</div>
-											
 										</div>
 									</div>
 								</ul>
@@ -1109,7 +976,7 @@
 													<span>
 														<img src="img/icon/mega-menu-email-icon.svg" alt="" class="" />
 													</span>
-													info@briskstar.com</a>
+												info@briskstar.com</a>
 												<a href="tel:">
 													<span>
 														<img src="img/icon/mega-menu-phone-icon.svg" alt="" class="" />
@@ -1119,21 +986,21 @@
 												<img src="img/theme-shape.svg" alt="">
 												<h4>FOLLOW</h4>
 												<ul class="social-media">
-												<li>
-													<a href=""><i class="fab fa-facebook-f"></i></a>
-												</li>
-												<li>
-													<a href=""><i class="fab fa-linkedin-in"></i></a>
-												</li>
-												<li>
-													<a href=""><i class="fab fa-instagram"></i></a>
-												</li>
-												<li>
-													<a href=""><i class="fab fa-twitter"></i></a>
-												</li>
-												<li>
-													<a href=""><i class="fab fa-youtube"></i></a>
-												</li>
+													<li>
+														<a href=""><i class="fab fa-facebook-f"></i></a>
+													</li>
+													<li>
+														<a href=""><i class="fab fa-linkedin-in"></i></a>
+													</li>
+													<li>
+														<a href=""><i class="fab fa-instagram"></i></a>
+													</li>
+													<li>
+														<a href=""><i class="fab fa-twitter"></i></a>
+													</li>
+													<li>
+														<a href=""><i class="fab fa-youtube"></i></a>
+													</li>
 												</ul>
 												<p>&copy; Briskstar Technologies 2022</p>
 											</div>
@@ -2415,5 +2282,4 @@
 			<div id="menu-overly">
 			</div>
 		</header>
-		
 	</section>
