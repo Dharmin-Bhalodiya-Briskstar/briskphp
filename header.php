@@ -20,6 +20,20 @@
 
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/css/intlTelInput.css" rel="stylesheet" />
 	
+	<style>
+	.fixed-navbar {
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 100%; 
+		background: linear-gradient(270deg, #F0562D 0%, #EE3F59 100%);
+	}
+
+	.hero-section .custom-navbar.fixed-navbar .btn-theme {
+		background: #fff;
+		color: #EE3F59;
+	}
+	</style>
 </head>
 <body>
 

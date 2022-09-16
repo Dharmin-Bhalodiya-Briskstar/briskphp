@@ -120,7 +120,8 @@
 			</div>
 		</div>
 		<div class="col-md-7">
-			<p>With our high-end services, we create a digital journey for our users that leads to hitting your goals.
+			<p class="border-text">
+				With our high-end services, we create a digital journey for our users that leads to hitting your goals.
 			</p>
 		</div>
 		</div>

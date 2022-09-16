@@ -1,6 +1,5 @@
 .custom-slider {
     margin-top: -120px;
-    z-index: -1;
     &:after {
         content: '';
         background: $slider-theme-bg;
@@ -9,7 +8,7 @@
         left: 0;
         width: 100%;
         height: 100%;
-        z-index: 1;
+        z-index: 0;
     }
     &:before {
         content: '';
@@ -49,7 +48,7 @@
                 letter-spacing: 0.05em;
                 text-transform: uppercase;
                 color: #FFFFFF;
-                max-width: 40%;
+                max-width: 45%;
                 font-family: 'Roboto Slab', serif;
                 &:before {
                     content: '';
@@ -171,35 +170,41 @@
     .custom-slider {
         .carousel-inner {
             .carousel-caption {
+                top: 55%;
+                left: 10%;
+
                 h5{
-                    font-size: 40px;
-                    line-height: 50px;
+                    font-size: 50px;
+                    line-height: 70px;
+                    max-width: 55%;
+                }
+
+                p {
+                    margin-bottom: 10px;
                 }
             }
         }
     }
-
-    
 }
 
 @media (max-width: $laptop) {
     .custom-slider {
         .carousel-inner {
             .carousel-caption {
-                top: 59%;
-                left: 15%;
+                top: 55%;
+                left: 10%;
                 h5 {
                     font-size: 35px;
-                    line-height: 50px;
-                    margin-bottom: 20px;
+                    line-height: 40px;
+                    margin-bottom: 10px;
                     max-width: 50%;
                 }
 
                 p {
                     font-size: 16px;
                     line-height: 25px;
-                    max-width: 46%;
-                    margin-bottom: 20px;
+                    max-width: 50%;
+                    margin-bottom: 10px;
                 }
             }
 
@@ -340,7 +345,7 @@
 
                 .btn-theme {
                     font-size: 16px;
-                    padding: 9px 10px 11px;
+                    padding: 9px 25px 11px;
                 }
                 .btn-arrow {
                     position: absolute;
@@ -394,20 +399,21 @@
                 h5 {
                     font-weight: 700;
                     font-size: 25px;
-                    line-height: 40px;
+                    line-height: 25px;
                     letter-spacing: 0.05em;
                     text-transform: uppercase;
                     color: #FFFFFF;
-                    max-width: 60%;
+                    max-width: 100%;
                     font-family: 'Roboto Slab', serif;
                 }
                 p {
                     font-weight: 400;
-                    font-size: 16px;
-                    line-height: 25px;
+                    font-size: 14px;
+                    line-height: 20px;
                     max-width: 90%;
-                    margin-bottom: 20px;
+                    margin-bottom: 10px;
                 }
+                
 
             }
             .custom-slider-left {

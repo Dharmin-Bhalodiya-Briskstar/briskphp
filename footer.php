@@ -549,6 +549,13 @@
 	<script src="js/custom.js"></script>
 	<script src="js/verticle-tabs-slider.js"></script>
 
-	
+	<script>
+		$(window).scroll(function(){
+			var sticky = $('.custom-navbar'),
+				scroll = $(window).scrollTop();
+		if (scroll >= 100) sticky.addClass('fixed-navbar');
+			else sticky.removeClass('fixed-navbar');
+		});
+	</script>
 </body>
 </html>

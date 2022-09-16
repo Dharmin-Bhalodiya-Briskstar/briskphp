@@ -22,7 +22,7 @@
         color: $text-color;
         font-size: 16px;
         line-height: 40px;
-        width: 75%;
+        width: 70%;
     }
 
     .blog-search-btn {
@@ -68,9 +68,24 @@
                 border: 1px solid #E8EAF2;
                 border-radius: 8px;
                 cursor: pointer;
-                padding: 15px 25px;
+                padding: 5px 25px;
                 margin-bottom: 15px;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                transition: all 0.5s ease-in-out;
+                outline: none;
 
+                &.active {
+                    box-shadow: 0px 8px 16px rgb(27 43 124 / 15%);
+                    border: 1px solid transparent;
+                    outline: none;
+
+                    a {
+                        color: #1B2B7C;
+                    }
+                }
+                
                 a {
                     font-weight: 500;
                     font-size: 16px;
@@ -80,16 +95,19 @@
                 }
 
                 &:hover {
-                    box-shadow: 0px 8px 16px rgba(27, 43, 124, 0.15);
-                    border: none;
+                    box-shadow: 0px 8px 16px rgb(27 43 124 / 15%);
+                    border: 1px solid transparent;
+                    outline: none;
 
                     a {
                         color: #1B2B7C;
                     }
                 }
+
                 &:focus {
-                    box-shadow: 0px 8px 16px rgba(27, 43, 124, 0.15);
-                    border: none;
+                    box-shadow: 0px 8px 16px rgb(27 43 124 / 15%);
+                    border: 1px solid transparent;
+                    outline: none;
 
                     a {
                         color: #1B2B7C;
@@ -107,7 +125,7 @@
                     text-transform: capitalize;
                     color: #1B2B7C;
                     float: right;
-                    margin: -10px 0px 0px 0px;
+                    margin: 0px -10px 0px 0px;
                 }
             }
         }
@@ -151,6 +169,14 @@
 
                     .blog-recent-post-img {
                         width: 30%;
+
+                        img {
+                            width: 150px;
+                            height: auto;
+                            min-height: 100px;
+                            object-fit: cover;
+                            border-radius: 10px;
+                        }
                     }
 
                     .content-block {
