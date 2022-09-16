@@ -357,6 +357,28 @@ var selectorleadership = $('.leadership-carousel');
 	});
 
 
+    $('.events-carousel').owlCarousel({
+        items:1,
+        loop:true,
+        nav:false,
+        dots:false,
+        autoplay:false,
+        autoplayTimeout:1000,
+        autoplayHoverPause:false,
+        responsive:{
+            0:{
+                items:1
+            },
+            600:{
+                items:1
+            },
+            1000:{
+                items:1
+            }
+        }
+    });
+
+
 
 
 
