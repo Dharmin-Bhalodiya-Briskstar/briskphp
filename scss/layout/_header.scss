@@ -30,6 +30,21 @@
 
     .custom-navbar {
         padding: 10px 20px;
+
+        &.fixed-navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%; 
+            background: linear-gradient(270deg, #F0562D 0%, #EE3F59 100%);
+            padding: 0px 20px 5px;
+
+            .btn-theme {
+                background: #fff;
+                color: #EE3F59;
+            }
+        }
+
         .navbar-nav {
             .navbar-custom-btn {
                 padding: 23px 0px;
@@ -814,6 +829,11 @@
 @media (max-width: $extra-small-laptop) {
     .hero-section {
         .custom-navbar {
+
+            &.fixed-navbar {
+                padding: 5px 20px 5px;
+            }
+
             .navbar-nav {
                 .nav-link {
                     padding: 15px 8px 0px;
@@ -879,6 +899,10 @@
     .hero-section {
         .custom-navbar {
             padding: 0px 10px 20px;
+
+            &.fixed-navbar {
+                padding: 0px 10px 20px;
+            }
 
             .desktop-logo {
                 max-width: 150px;
@@ -1001,6 +1025,16 @@
     .hero-section {
         .custom-navbar {
             padding: 10px 0px 10px 20px;
+
+            &.fixed-navbar {
+                padding: 5px 0px 5px 20px;
+    
+                .mobile-logo {
+                    img {
+                        filter: brightness(0) invert(1);
+                    }
+                }
+            }
         }
         .topbar {
             .topbar-text {
@@ -1058,6 +1092,16 @@
         }
         .custom-navbar {
             padding: 10px 0px;
+
+            &.fixed-navbar {
+                padding: 0px 0px 5px;
+    
+                .mobile-logo {
+                    img {
+                        filter: brightness(0) invert(1);
+                    }
+                }
+            }
         }
     }
 
