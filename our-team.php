@@ -230,7 +230,7 @@
     <section class="team-text-section">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-6 col-md-12">
+                <div class="col-lg-6 col-md-12 mb-5 mb-lg-0">
                     <img src="img/our-team/great-place-to-work.png" class="img-fluid" alt="Great Place To Work" />
                 </div>
                 <div class="col-lg-6 col-md-12">

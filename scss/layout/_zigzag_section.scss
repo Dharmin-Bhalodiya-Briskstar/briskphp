@@ -30,6 +30,12 @@
     .content-blk{
         padding-left: 70px;
     }
+    p{
+        strong{
+            margin-bottom: 20px;
+            display: block;
+        }
+    }
 }
 
 @media (max-width: $large-laptop) {

@@ -181,6 +181,9 @@
                     color: #AEAEAE;
                     font-size: 15px;
                     height: 100px;
+                    &:focus{
+                        box-shadow: none;
+                    }
                 }
             }
             .btn-submit{
