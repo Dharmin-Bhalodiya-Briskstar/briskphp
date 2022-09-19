@@ -1,0 +1,16 @@
+.development-methodology-section{
+    .testimonial-card{
+        padding: 60px 36px 10px;
+    }
+    h2{
+        margin-bottom: 50px;
+    }
+}
+
+@media (max-width: $ipad-portrait) {
+    .development-methodology-section {
+        .testimonial-card{
+            margin-top: 50px;
+        }
+    }
+}

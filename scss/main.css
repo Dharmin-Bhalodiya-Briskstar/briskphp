@@ -4134,6 +4134,15 @@ a.active {
     left: 0;
   }
 }
+@media (max-width: 1280px) {
+  .service-testimonial-section {
+    padding: 90px 0 70px;
+  }
+  .service-testimonial-section h2 {
+    font-size: 34px;
+    line-height: 45px;
+  }
+}
 @media (max-width: 767px) {
   .service-testimonial-section .top-line {
     display: none;
@@ -4702,6 +4711,9 @@ a.active {
   color: #AEAEAE;
   font-size: 15px;
   height: 100px;
+}
+.get-in-touch .get-in-touch-form .custom-form .custom-textarea textarea.form-control:focus {
+  box-shadow: none;
 }
 .get-in-touch .get-in-touch-form .custom-form .btn-submit {
   background: linear-gradient(270deg, #F0562D 0%, #EE3272 100%);
@@ -6088,6 +6100,10 @@ a.active {
 }
 .zigzag-section .content-blk {
   padding-left: 70px;
+}
+.zigzag-section p strong {
+  margin-bottom: 20px;
+  display: block;
 }
 
 @media (max-width: 1680px) {
@@ -11655,6 +11671,38 @@ a.active {
   padding: 100px 15px;
 }
 
+.bg-ultralight-pink.workflow-section {
+  background: #ffffff;
+}
+.bg-ultralight-pink.workflow-section h2 {
+  margin-bottom: 50px;
+}
+
+.methodologies-section {
+  padding: 100px 0;
+  background: #FFF6F8;
+  margin: 0 0 100px;
+}
+.methodologies-section .first-text {
+  margin: 0 auto 30px;
+}
+
+.scrum-methodology-section {
+  margin: 0;
+}
+
+.development-methodology-section .testimonial-card {
+  padding: 60px 36px 10px;
+}
+.development-methodology-section h2 {
+  margin-bottom: 50px;
+}
+
+@media (max-width: 991px) {
+  .development-methodology-section .testimonial-card {
+    margin-top: 50px;
+  }
+}
 @media (max-width: 1024px) {
   .custom-title-primary h3 {
     margin: 0px 0px 0px 0px;

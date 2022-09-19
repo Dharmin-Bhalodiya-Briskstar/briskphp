@@ -167,6 +167,16 @@
 }
 
 
+@media (max-width: $ipad-pro) {
+    .service-testimonial-section {
+        padding: 90px 0 70px;
+        h2{
+            font-size: 34px;
+            line-height: 45px;
+        }
+    }
+}
+
 
 @media (max-width: $large-mobile) {
     .service-testimonial-section {
