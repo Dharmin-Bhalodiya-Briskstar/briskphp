@@ -1,16 +1,18 @@
 <?php 
 	include 'header.php';
 ?>
-<section class="service-hero-section">
+<section class="service-hero-section technology-detail-hero-section">
 		<div class="container">
 			<div class="row align-items-center">
 				<div class="col-lg-5 col-md-12">
 					<div class="common-title">
-						<h1>Comprehensive Joomla Development
+						<h1>Bespoke CMS Development
 						</h1>
 					</div>
-					<p>Exploit the world's award-winning content management system (CMS) using world-class Joomla development services by an outstanding team of Joomla developers at Brickstar Technologies.
+					<p>We thoroughly analyze your bespoke requirements and develop custom CMS solutions accordingly.
 					</p>
+					<p> Our CMS development services offer easy ways to customize and manage online content.</p>
+					<p class="last-text"> We provide an interactive and intuitive user interface in your custom CMS development.</p>
 					<a class="theme-btn-arrow" href="#">Let's Talk<i class="fa-solid fa-arrow-right"></i></a>
 				</div>
 				<div class="col-lg-7 col-md-12">
@@ -32,10 +34,9 @@
 				<div class="col-lg-6 col-md-12">
 					<div class="content-blk">
 					<div class="common-title">
-						<h2>A Rock Star Joomla Development Company</h2>
+						<h2>Briskstar: A Leading CMS Development Company</h2>
 					</div>
-					<p>Your dreams will come true. You will rule on the web in your business niche by getting a top ranking. We make it possible through our years of experience and expertise in Joomla development. </p>
-					<p>We will win the hearts of your end-users by offering exceptional user experiences, unbeatable performance, and awesome usability. </p>		
+					<p>Briskstar is a leading CMS development company with clientele across the globe. We are a full-service CMS development agency providing our services on the following CMS platforms.</p>
 				</div>
 				</div>
 			</div>
@@ -80,31 +81,31 @@
 	<section class="key-benefits-section">
 		<div class="container">
 			<div class="common-title text-center">
-				<h2>Key Benefits of Our Joomla<br> Development Services</h2>
+				<h2>Key Benefits of Our CMS<br> Development Services</h2>
 			</div>
-			<p class="first-text">Do you believe it? We always gain an edge over our competitors, thanks to our highly beneficial Joomla development services, such as...
+			<p class="first-text"> Our CMS development services have numerous benefits to avail, but the following are key benefits worth mentioning here.
 			</p>
 			<div class="row">
 				<div class="col-lg-4 col-md-12">
 					<div class="key-benefits-card">
 						<h3>01</h3>
-						<h4>Gathering of Joomla Talents</h4>
-						<p>We have handpicked a team of in-house Joomla developers; we have spent enough on training and keeping their skills up to date!</p>
+						<h4>High-end Architecture</h4>
+						<p>We apply a multilayered structure and use Microservices in our CMS development. Moreover, we adhere to architectural design principles such as SoC (Separation of Concerns)and high concurrency.</p>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-12">
 					<div class="key-benefits-card">
 						<h3>02</h3>
-						<h4>Collaborative Joomla Development Environment</h4>
-						<p>We have invested heavily in creating Joomla development facilities, including hardware, software & networking. Our solo aim is to develop a collaborative Joomla development environment to foster productivity.
+						<h4>Optimized Cost</h4>
+						<p>We apply all possible measures to optimize development costs while using third-party components. We use public APIs and cloud services more than costly options.
 						</p>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-12">
 					<div class="key-benefits-card">
 						<h3>03</h3>
-						<h4>A Cost-efficient Team</h4>
-						<p>Our prime target is cost-efficient Joomla development employing all possible tools, tricks, and technologies. We take care of it at each step of the development to save costs and time to meet the budgetary constraints of our patrons.
+						<h4>High Quality Yet Fast Delivery</h4>
+						<p>We run regular code reviews, integrated APM (Application Performance Management) tools, and systematic QA to ensure high quality. Moreover, we guarantee on-time delivery using agile development methodology and the best DevOps practices with CI/CD.
 						</p>
 					</div>
 				</div>
@@ -117,7 +118,7 @@
 			<div class="row align-items-center">
 				<div class="col-md-12 text-center">
 					<div class="common-title text-center">
-						<h2>Our Refined Joomla Development Process</h2>
+						<h2>Our End-to-End CMS Development Process</h2>
 					</div>
 				</div>
 			</div>
@@ -187,7 +188,7 @@
 					<div class="common-title">
 						<h2>Our Flexible Engagement Models</h2>
 					</div>
-					<p>We have devised client-friendly and budget-friendly engagement models with adequate flexibility. Place your stamp of choice on a suitable model and discuss its customization, if needed.
+					<p>We have created engagement models that are comprehensive and flexible to customize. Just made a request, and we will customize our plans to meet your budgetary constraints.
 					</p>		
 				</div>
 				<div class="col-lg-6 col-md-12">
@@ -197,11 +198,7 @@
 		</div>
 	</section>
 	
-
-
-
-
-	<section class="technologies_work pb-0">
+	<section class="technologies_work pb-0 cms-development-section">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12 text-center">
@@ -210,7 +207,7 @@
 							TECHNOLOGY STACK
 						</span>
 						<h3>
-							Technologies we work <br/> with
+						Our Expertise in CMS<br> Development Technologies
 						</h3>
 					</div>
 				</div>
@@ -225,7 +222,7 @@
 								Frontend Development
 								</h5>
 								<p>
-								We create a user-friendly interface to give the best user experience in our web and mobile applications using the latest front-end development technologies and tools.
+								Open source CMS platforms provide ready-to-use themes that we customize for further changes. We also use other front-end technologies to create a solution from scratch.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">
@@ -305,7 +302,7 @@
 								Backend Development
 								</h5>
 								<p>
-								Our development leads to exceptional backend management capabilities for your applications, where you can quickly access every feature and functionality.
+								Most open source CMS platforms come with a ready-to-use backend with an organized dashboard. We need to tweak them and customize them to meet your custom needs. Otherwise, we can create a backend solution from scratch in PHP.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">
@@ -382,10 +379,10 @@
 						<div class="card-body">
 							<div class="technologies-work-box">
 								<h5>
-								Mobile App Development
+								Project Management
 								</h5>
 								<p>
-								We bolstered on completely responsive design that lets your target audience enjoys seamless UX across the devices and attain the best performance.
+								Our PMS (Project Management Software) bridges our team with the client-side team and creates great collaboration. We give direct access to the team to allow free interactions and full participation.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">
@@ -462,10 +459,10 @@
 						<div class="card-body">
 							<div class="technologies-work-box">
 								<h5>
-								SEO & Lead Generation
+								Database
 								</h5>
 								<p>
-								We consider search engines the next audience and build apps meeting their requirements completely. Our converting design brings more leads to your business.
+								We select the most appropriate DBMS for your CMS development project and offer highly secure and safe database solutions at the end.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">
@@ -542,10 +539,10 @@
 						<div class="card-body">
 							<div class="technologies-work-box">
 								<h5>
-								Emerging Technologies
+								Integration  
 								</h5>
 								<p>
-								We keep a close eye on emerging technologies and encourage our team to acquire skills to be an early bird. This approach establishes us as an updated team.
+								Our integration means extending existing features and functionality using third-party software and services, such as cloud services.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">
@@ -622,10 +619,10 @@
 						<div class="card-body">
 							<div class="technologies-work-box">
 								<h5>
-								API Integration
+								Marketing
 								</h5>
 								<p>
-								We deliver seamless integration services through various APIs integration, including web services, cloud services, and third-party software to extend the functionality of applications.
+								We have an experienced team of marketers involved in the project from the beginning and help in SEO-friendly CMS solution development.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">
@@ -718,7 +715,7 @@
 						<div class="accordion-item">
 						  <h2 class="accordion-header" id="headingOne">
 							<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-								What Are the Costs of Your Joomla Development Services?
+							What Are the Costs of Your Joomla Development Services?
 							</button>
 						  </h2>
 						  <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
@@ -731,12 +728,12 @@
 						<div class="accordion-item">
 						  <h2 class="accordion-header" id="headingTwo">
 							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-								What Is the Timeline of Your Joomla Development Project?
+							What Is the Timeline of Your Joomla Development Project?
 							</button>
 						  </h2>
 						  <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
 							<div class="accordion-body">
-								<p>It depends on what time your project consumes. We used to estimate the costs of a project based on the hours it consumes and apply our hourly rate to it. Thus, we can give the client a ballpark estimation.
+								<p>It mainly depends on project requirements and their complexities. If your project is complex and demands more work, we consume more hours and cost more. The opposite is true for simple projects. Thus, they cost you less.
 								</p>
 							 </div>
 						  </div>
@@ -744,12 +741,12 @@
 						<div class="accordion-item">
 						  <h2 class="accordion-header" id="headingThree">
 							<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-								Why do you prefer Joomla Technology?
+							Why do you prefer Joomla Technology?
 							</button>
 						  </h2>
 						  <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
 							<div class="accordion-body">
-								<p>It depends on what time your project consumes. We used to estimate the costs of a project based on the hours it consumes and apply our hourly rate to it. Thus, we can give the client a ballpark estimation.
+								<p>Joomla is an award-winning CMS and boasts many useful features and functionality to win success in this fiercely competitive market. It is a user-friendly and SEO-friendly CMS solution capable of delivering numerous solutions from simple blogs to complex web portals and ecommerce solutions.
 								</p>
 							 </div>
 						  </div>
@@ -782,7 +779,7 @@
 					</div>
 					<p>We have introduced you to our core services for Joomla development. Do you strive for a high-quality Joomla solution for your business? Let's exchange some words and do needful.
 					</p>
-					<p><strong> We are waiting for your call!</strong></p>
+					<p><strong>We are waiting for your call!</strong></p>
 					<a class="theme-btn-arrow" href="#">Let's Talk<i class="fa-solid fa-arrow-right"></i></a>
 				</div>
 				<div class="col-lg-7 col-md-12">

@@ -11703,6 +11703,27 @@ a.active {
     margin-top: 50px;
   }
 }
+.technology-detail-hero-section p {
+  padding: 0;
+}
+.technology-detail-hero-section p.last-text {
+  margin-bottom: 30px;
+}
+
+.cms-development-section .custom-card .technologies-work-box p {
+  min-height: 151px;
+}
+
+@media (max-width: 1680px) {
+  .cms-development-section .custom-card .technologies-work-box p {
+    min-height: 175px;
+  }
+}
+@media (max-width: 1200px) {
+  .cms-development-section .custom-card .technologies-work-box p {
+    min-height: 230px;
+  }
+}
 @media (max-width: 1024px) {
   .custom-title-primary h3 {
     margin: 0px 0px 0px 0px;
