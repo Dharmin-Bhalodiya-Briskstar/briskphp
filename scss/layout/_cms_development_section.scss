@@ -1,0 +1,33 @@
+.cms-development-section{
+    .custom-card {
+        .technologies-work-box {
+            p{
+                min-height: 151px;
+            }
+        }
+    }
+}
+
+@media (max-width: $large-laptop) {
+    .cms-development-section{
+        .custom-card {
+            .technologies-work-box {
+                p{
+                    min-height: 175px;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: $extra-small-laptop) {
+    .cms-development-section{
+        .custom-card {
+            .technologies-work-box {
+                p{
+                    min-height: 230px;
+                }
+            }
+        }
+    }
+}
