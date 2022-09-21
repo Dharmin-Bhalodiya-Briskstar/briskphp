@@ -6,10 +6,10 @@
 			<div class="row align-items-center">
 				<div class="col-lg-5 col-md-12">
 					<div class="common-title">
-						<h1>Result-oriented WordPress Development
+						<h1>User-centric Drupal Development
 						</h1>
 					</div>
-					<p>Your website is the first part of your organization that people see and interact with. So, your website should be impressive enough if you want to be remarkable in the market. WordPress technology is the way to create desired impacts, and Briskstar is the company that can leverage WordPress technology the most.
+					<p>Working with Briskstar means working with the world's renowned talents in Drupal technology. We primarily focus on our end-users of websites or web applications while crafting user experiences, usability, and performance.
 					</p>
 					<a class="theme-btn-arrow" href="#">Let's Talk<i class="fa-solid fa-arrow-right"></i></a>
 				</div>
@@ -32,9 +32,9 @@
 				<div class="col-lg-6 col-md-12">
 					<div class="content-blk">
 					<div class="common-title">
-						<h2>A Professional WordPress Development Company</h2>
+						<h2>A One-stop Drupal Development Company</h2>
 					</div>
-					<p>At Briskstar, a gathering of WordPress talents, provides professional WordPress development services with the following attractive reasons to compel you to run after our services! Let's learn some...</p>
+					<p>The talented Drupal experts at Briskstar work to transform any of your projects into a compelling digital experience. Briskstar is a one-stop shop for all Drupal development services, including</p>
 							
 </div>
 				</div>
@@ -51,18 +51,20 @@
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
 					<ul>
-						<li>We are expert coders with fluency in WordPress programming.</li>
-						<li>We deliver the most organized and professional WordPress solutions for your business-specific requirements.</li>
-						<li>We create SEO-friendly WordPress websites and web applications for your organizations.</li>
-						<li>We develop scalable, flexible, and dependable WordPress solutions.</li>
+						<li>Drupal consulting services.</li>
+						<li>Drupal CMS website development.</li>
+						<li>Drupal module and template design.</li>
+						<li>Drupal multilingual and multisite website development.</li>
+						<li>Drupal enterprise web development.</li>
 					</ul>
 				</div>
 				<div class="col-lg-6 col-md-12">
 					<ul>
-						<li>We take tactical approaches with solid actions, strategies, and planning to create a functional WordPress solution for your needs.</li>
-						<li>Our development remains client-centric.</li>
-						<li>We always deliver budget-friendly solutions.</li>
-						<li>We keep our bar for quality metrics high and deliver feasible solutions.</li>
+						<li>Drupal extension development.</li>
+						<li>Drupal migration and updates services.</li>
+						<li>Drupal integration services.</li>
+						<li>Drupal Commerce development.</li>
+						<li>Drupal support and maintenance services.</li>
 					</ul>
 				</div>
 			</div>
@@ -72,31 +74,31 @@
 	<section class="key-benefits-section">
 		<div class="container">
 			<div class="common-title text-center">
-				<h2>Key Benefits of Our WordPress<br> Development Services</h2>
+				<h2>Key Benefits of Our Drupal<br> Development Services</h2>
 			</div>
-			<p class="first-text">Our WordPress development is highly beneficial for your business. However, we consider the following are key benefits and worth knowing about.
+			<p class="first-text">As a leading Drupal development company, we are a team that works relentlessly for the betterment of your business or profession. As a result, we have key benefits you can enjoy while being with us in your projects, such as...
 			</p>
 			<div class="row">
 				<div class="col-lg-4 col-md-12">
 					<div class="key-benefits-card">
 						<h3>01</h3>
-						<h4>Gathering of An Experienced Team</h4>
-						<p>We are certified WordPress developers with enough experience in developing WordPress websites and web applications for diverse industry and business niches. Our portfolio supports the claims.</p>
+						<h4>Clients Come First Approach</h4>
+						<p>We are a customer-centric team of Drupal designers and developers who always place clients' interests ahead of everything else. Therefore, we thoroughly run research on your target audience and their aspirations for your business. So, we value your voice right from the research and planning stage.</p>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-12">
 					<div class="key-benefits-card">
 						<h3>02</h3>
-						<h4>Delivering Bespoken WordPress Solutions</h4>
-						<p>You can think of your websites and web applications as loading fast, performing better, easy to manage, and more search engine friendly with our WordPress web development. Your solutions will meet your custom requirements and prove tailor-made solutions for you.
+						<h4>End-to-End Expertise</h4>
+						<p>Our Drupal development team handles everything from beginning to end. Our in-house team has expert UI/UX designers and developers who craft customer journeys beautifully, and programmers make it live with their quality code.
 						</p>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-12">
 					<div class="key-benefits-card">
 						<h3>03</h3>
-						<h4>A Customer-centric Team</h4>
-						<p>We keep our customers and their requirements and their target audience's requirements at the center when we create development strategies and throughout the entire development process. So, our team will hear you well and get 100% satisfaction with our WordPress development.
+						<h4>Deployment and Scaling Expertise</h4>
+						<p>Our DevOps team tackles every minute detail of the project while performing the deployment. They test the code thoroughly before shifting from the staging server to the live server. Therefore, our Drupal websites and web applications scale per traffic load and give a consistent user experience even at high traffic spikes.
 						</p>
 					</div>
 				</div>
@@ -109,7 +111,7 @@
 			<div class="row align-items-center">
 				<div class="col-md-12 text-center">
 					<div class="common-title text-center">
-						<h2>Our Refined WordPress Development Process</h2>
+						<h2>Our Refined Drupal Development Process</h2>
 					</div>
 				</div>
 			</div>
@@ -179,7 +181,7 @@
 					<div class="common-title">
 						<h2>Our Flexible Engagement Models</h2>
 					</div>
-					<p>We have devised client-friendly and budget-friendly engagement models with adequate flexibility. Place your stamp of choice on a suitable model and discuss its customization, if needed.
+					<p>We have carefully crafted our engagement models in favor of our patrons who seek high-quality solutions despite their budgetary constraints. We are flexible in our plans and customize them if needed.
 					</p>		
 				</div>
 				<div class="col-lg-6 col-md-12">
@@ -202,7 +204,7 @@
 							TECHNOLOGY STACK
 						</span>
 						<h3>
-							Technologies we work <br/> with
+						Our Expertise in Drupal Development Technologies
 						</h3>
 					</div>
 				</div>
@@ -217,7 +219,7 @@
 								Frontend Development
 								</h5>
 								<p>
-								WordPress offers great tools to create an impressive front end, and we use them properly to deliver excellent UX.
+								We deliver an attractive design that can engage the users and eventually convert them at the end of the customer journey.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">
@@ -297,7 +299,7 @@
 								Backend Development
 								</h5>
 								<p>
-								WordPress offers a highly organized backend interface, and we can customize it as per your unique requirements.
+								Our Drupal experts create clean and crisp code using the best Drupal programming practices and give bug-free apps.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">
@@ -377,7 +379,7 @@
 								Project Management
 								</h5>
 								<p>
-								We assimilate our patrons in the WordPress development process through the latest PMS solution and offer the best client experience.
+								We consider our clients as our active development team members and respect the feedback given in our PMS.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">
@@ -457,7 +459,7 @@
 								Database
 								</h5>
 								<p>
-								Our hands-on command over SQL and NoSQL databases results in highly interactive and dynamic WordPress solutions.
+								We have SQL and NoSQL databases expertise and deliver a smooth and secure database experience.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">
@@ -537,7 +539,7 @@
 								Integration  
 								</h5>
 								<p>
-								We can integrate third-party solutions and services to extend the functionality of your WordPress beyond what you think or imagine.
+								Our expertise in various APIs leads to seamless integration and extends your apps' functionality.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">
@@ -617,7 +619,7 @@
 								Marketing
 								</h5>
 								<p>
-								We have a team of expert and experienced marketers to ensure success in your endeavors on the WordPress platform. We cover technical to general aspects.
+								Our marketing team takes charge of digital marketing right from the planning and rests of the development stages.
 								</p>
 							</div>
 							<ul class="technologies-box-ul">
@@ -772,9 +774,9 @@
 					<div class="common-title">
 						<h2>Let’s Discuss Your Project</h2>
 					</div>
-					<p>You have seen our WordPress development services at a glance, and now you know our capability to deliver bespoke WordPress websites and web applications on time. Will you prefer to discuss your next WordPress development project with us?
+					<p>We hope you have gained complete insights into our Drupal development. Furthermore, we are eager to know if any query is left behind. Finally, we would like to discuss your project at length and expect your call or message.
 					</p>
-					<p><strong>We are waiting for your call!</strong></p>
+					<p><strong>Are you ready?</strong></p>
 					<a class="theme-btn-arrow" href="#">Let's Talk<i class="fa-solid fa-arrow-right"></i></a>
 				</div>
 				<div class="col-lg-7 col-md-12">

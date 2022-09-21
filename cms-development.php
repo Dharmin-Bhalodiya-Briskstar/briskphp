@@ -777,7 +777,7 @@
 					<div class="common-title">
 						<h2>Let’s Discuss Your Project</h2>
 					</div>
-					<p>We have introduced you to our core services for Joomla development. Do you strive for a high-quality Joomla solution for your business? Let's exchange some words and do needful.
+					<p>You have noticed our expertise in CMS development. Now, would you like to discuss your requirements with our CMS experts? It might turn into a beneficial dialogue between us. So let's make a call.
 					</p>
 					<p><strong>We are waiting for your call!</strong></p>
 					<a class="theme-btn-arrow" href="#">Let's Talk<i class="fa-solid fa-arrow-right"></i></a>

@@ -103,19 +103,19 @@
 				<div class="row">
 					<div class="col-lg-4 col-md-12">
 					<div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-					  <button class="nav-link active" id="v-pills-digital-tab" data-bs-toggle="pill" data-bs-target="#v-pills-digital" type="button" role="tab" aria-controls="v-pills-digital" aria-selected="true">
+					  <button class="nav-link active" data-bs-toggle="pill" data-bs-target="#v-pills-digital" type="button" role="tab">
 						<h3>Digital certification after course completion
 						</h3>
 						<p>With the use of private hyperledger in blockchain, The digital certificate is generated and automatically gets saved in the edu wallet.
 						</p>
 					  </button>
-					  <button class="nav-link" id="v-pills-interactive-tab" data-bs-toggle="pill" data-bs-target="#v-pills-interactive" type="button" role="tab" aria-controls="v-pills-interactive" aria-selected="false">
+					  <button class="nav-link" data-bs-toggle="pill" data-bs-target="#v-pills-interactive" type="button" role="tab">
 						<h3>Interactive Group Study
 						</h3>
 						<p>Students can create groups and send invitations to participants of their group with the help of Google Meet integration.
 						</p>
 				</button>
-					  <button class="nav-link" id="v-pills-multiple-tab" data-bs-toggle="pill" data-bs-target="#v-pills-multiple" type="button" role="tab" aria-controls="v-pills-multiple" aria-selected="false">
+					  <button class="nav-link" data-bs-toggle="pill" data-bs-target="#v-pills-multiple" type="button" role="tab">
 						<h3>Multiple location of same 
 							organisation
 						</h3>
@@ -126,13 +126,13 @@
 				</div>
 				<div class="col-lg-8 col-md-12">
 					<div class="tab-content" id="v-pills-tabContent">
-					  <div class="tab-pane fade show active" id="v-pills-digital" role="tabpanel" aria-labelledby="v-pills-digital-tab">
+					  <div class="tab-pane fade show active" id="v-pills-digital">
 						<img src="img/our-work-detail/approach-img.png" class="img-fluid" alt="approach-img" />
 					  </div>
-					  <div class="tab-pane fade" id="v-pills-interactive" role="tabpanel" aria-labelledby="v-pills-interactive-tab">
+					  <div class="tab-pane fade" id="v-pills-interactive">
 						<img src="img/our-work-detail/approach-img.png" class="img-fluid" alt="approach-img" />
 					  </div>
-					  <div class="tab-pane fade" id="v-pills-multiple" role="tabpanel" aria-labelledby="v-pills-multiple-tab">
+					  <div class="tab-pane fade" id="v-pills-multiple">
 						<img src="img/our-work-detail/approach-img.png" class="img-fluid" alt="approach-img" />
 					  </div>
 					</div>
